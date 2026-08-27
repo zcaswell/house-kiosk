@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="dark">
+  <meta name="referrer" content="no-referrer">
+  <title>House</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="config.js"></script>
+</head>
+<body>
+  <div class="wash" aria-hidden="true"></div>
+  <main class="kiosk">
+    <header class="hero">
+      <p class="weekday" id="weekday">&nbsp;</p>
+      <p class="fulldate" id="fulldate">&nbsp;</p>
+      <div class="clock">
+        <span id="time" class="time">&nbsp;</span>
+        <span id="meridiem" class="meridiem"></span>
+      </div>
+    </header>
+
+    <section class="weather" id="weather" data-state="loading" aria-live="polite">
+      <div class="weather-row">
+        <div class="temp-block">
+          <span class="temp" id="wx-temp"></span>
+          <span class="degree" id="wx-degree" hidden>°</span>
+        </div>
+        <div class="wx-copy">
+          <p class="condition" id="wx-cond"></p>
+          <p class="hl" id="wx-hl"></p>
+        </div>
+      </div>
+      <div class="hours" id="wx-hours"></div>
+    </section>
+
+    <section class="events" aria-label="Upcoming events">
+      <div class="events-head">
+        <span class="events-label">Coming up</span>
+        <span class="events-rule"></span>
+      </div>
+      <div class="events-viewport" id="events-viewport">
+        <div class="events-track" id="events-track"></div>
+      </div>
+    </section>
+
+    <footer class="foot">
+      <span id="place">Shelbyville, Indiana</span>
+      <span class="foot-dot" aria-hidden="true"></span>
+      <span id="foot-note"></span>
+    </footer>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
