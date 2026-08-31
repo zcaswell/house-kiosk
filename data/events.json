@@ -1,1 +1,18 @@
-PLACEHOLDER_WILL_FAIL
+{
+  "updatedAt": "2026-08-31T08:20:45.176671-04:00",
+  "location": "Shelbyville, IN",
+  "events": [
+    {
+      "id": "field-museum-pokemon-2026",
+      "title": "Field Museum — Pokémon Fossil Museum",
+      "start": "2026-05-22T10:00:00-04:00",
+      "end": "2027-04-11T17:00:00-04:00",
+      "venue": "Field Museum",
+      "city": "Chicago, IL",
+      "distanceMiles": 210,
+      "category": "museum",
+      "url": "https://www.fieldmuseum.org/exhibition/pokemon",
+      "notes": "Open now through Apr 11, 2027. Early-morning sessions Sep 12 and Oct 10."
+    }
+  ]
+}
