@@ -764,19 +764,31 @@
   function formatDateTile(ev) {
     const start = new Date(ev.start);
     const end = ev.end ? new Date(ev.end) : null;
-    const month = part(start, "month", { month: "short" }).toUpperCase();
+    const startYmd = ymd(start);
+    const startMonth = part(start, "month", { month: "short" }).toUpperCase();
     const startDay = part(start, "day", { day: "numeric" });
-    let dayLine = startDay;
-    if (end && ymd(start) !== ymd(end)) {
-      const endMonth = part(end, "month", { month: "short" }).toUpperCase();
-      const endDay = part(end, "day", { day: "numeric" });
-      if (ymd(start).slice(0, 7) === ymd(end).slice(0, 7)) {
-        dayLine = startDay + "–" + endDay;
-      } else {
-        dayLine = startDay + "–" + endMonth + " " + endDay;
-      }
+    if (!end) {
+      return { month: startMonth, day: startDay, dualMonth: false };
     }
-    return { month: month, day: dayLine };
+    // Prefer calendar ymd; end-of-dayish still uses that calendar day.
+    const endYmd = ymd(end);
+    if (startYmd === endYmd) {
+      return { month: startMonth, day: startDay, dualMonth: false };
+    }
+    const endMonth = part(end, "month", { month: "short" }).toUpperCase();
+    const endDay = part(end, "day", { day: "numeric" });
+    if (startYmd.slice(0, 7) === endYmd.slice(0, 7)) {
+      return {
+        month: startMonth,
+        day: startDay + "–" + endDay,
+        dualMonth: false,
+      };
+    }
+    return {
+      month: startMonth + "–" + endMonth,
+      day: startDay + "–" + endDay,
+      dualMonth: true,
+    };
   }
 
   function renderEvents(payload) {
@@ -834,6 +846,7 @@
         const tile = document.createElement("div");
         tile.className = "event-date";
         const tileParts = formatDateTile(ev);
+        if (tileParts.dualMonth) tile.classList.add("event-date--range");
         const tileMonth = document.createElement("span");
         tileMonth.className = "event-date-month";
         tileMonth.textContent = tileParts.month;
