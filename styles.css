@@ -9,6 +9,21 @@
   --hair: rgba(243, 238, 228, 0.11);
   --serif: "Cormorant Garamond", "Iowan Old Style", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
   --sans: "Source Sans 3", "Source Sans Pro", "Helvetica Neue", ui-sans-serif, system-ui, sans-serif;
+
+  /* Event category accents */
+  --cat-convention: #A78BFA;
+  --cat-haunted: #F97316;
+  --cat-museum: #2DD4BF;
+  --cat-retro-games: #E879F9;
+  --cat-book: #D4A017;
+  --cat-fair: #34D399;
+  --cat-anime: #FB7185;
+  --cat-sci-fi: #38BDF8;
+  --cat-fantasy: #818CF8;
+  --cat-concert: #E8C468;
+  --cat-park: #4ADE80;
+  --cat-movie: #94A3B8;
+  --cat-other: #A8A29E;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -275,18 +290,76 @@ html { font-size: 16px; }
 }
 
 .event {
+  --cat: var(--cat-other);
   display: grid;
-  grid-template-columns: 1fr auto;
-  grid-template-rows: auto auto auto;
-  column-gap: 2vw;
-  row-gap: 0.3vh;
+  grid-template-columns: auto 1fr auto;
+  align-items: stretch;
+  column-gap: 1.8vw;
+  row-gap: 0;
   padding: 1.2vh 0 1.3vh;
   border-top: 1px solid var(--hair);
 }
 
+.event[data-category="convention"] { --cat: var(--cat-convention); }
+.event[data-category="haunted"] { --cat: var(--cat-haunted); }
+.event[data-category="museum"] { --cat: var(--cat-museum); }
+.event[data-category="retro-games"] { --cat: var(--cat-retro-games); }
+.event[data-category="book"] { --cat: var(--cat-book); }
+.event[data-category="fair"] { --cat: var(--cat-fair); }
+.event[data-category="anime"] { --cat: var(--cat-anime); }
+.event[data-category="sci-fi"] { --cat: var(--cat-sci-fi); }
+.event[data-category="fantasy"] { --cat: var(--cat-fantasy); }
+.event[data-category="concert"] { --cat: var(--cat-concert); }
+.event[data-category="park"] { --cat: var(--cat-park); }
+.event[data-category="movie"] { --cat: var(--cat-movie); }
+.event[data-category="other"] { --cat: var(--cat-other); }
+
+.event-date {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: clamp(52px, 7.2vw, 110px);
+  padding: 0.55em 0.45em;
+  border-radius: 0.35em;
+  border-left: 0.28em solid var(--cat);
+  background: color-mix(in srgb, var(--cat) 22%, transparent);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--cat) 28%, transparent);
+  text-align: center;
+  align-self: stretch;
+}
+
+.event-date-month {
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: clamp(12px, 1.7vw, 30px);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--cat);
+  line-height: 1.05;
+}
+
+.event-date-day {
+  margin-top: 0.28em;
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: clamp(18px, 2.7vw, 48px);
+  letter-spacing: 0.01em;
+  color: var(--ink);
+  line-height: 1.05;
+  white-space: nowrap;
+}
+
+.event-main {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3vh;
+  justify-content: center;
+}
+
 .event-title {
-  grid-column: 1;
-  grid-row: 1;
   font-family: var(--serif);
   font-weight: 600;
   font-size: clamp(22px, 3.35vw, 64px);
@@ -296,22 +369,22 @@ html { font-size: 16px; }
 }
 
 .event-cat {
-  grid-column: 2;
-  grid-row: 1;
-  align-self: center;
+  align-self: start;
+  margin-top: 0.2em;
   font-family: var(--sans);
   font-weight: 600;
   font-size: clamp(11px, 1.55vw, 28px);
-  letter-spacing: 0.18em;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
-  color: var(--gold);
+  color: var(--cat);
   white-space: nowrap;
-  padding-top: 0.15em;
+  padding: 0.35em 0.7em;
+  border: 1px solid color-mix(in srgb, var(--cat) 55%, transparent);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--cat) 12%, transparent);
 }
 
 .event-meta {
-  grid-column: 1 / -1;
-  grid-row: 2;
   font-family: var(--sans);
   font-weight: 500;
   font-size: clamp(15px, 2.05vw, 38px);
@@ -325,8 +398,6 @@ html { font-size: 16px; }
 }
 
 .event-notes {
-  grid-column: 1 / -1;
-  grid-row: 3;
   font-family: var(--sans);
   font-weight: 400;
   font-size: clamp(14px, 1.9vw, 34px);

@@ -110,19 +110,23 @@
   };
 
   const CAT_LABEL = {
+    convention: "Con",
+    haunted: "Haunt",
+    museum: "Museum",
+    "retro-games": "Retro",
+    book: "Book",
+    fair: "Fair",
+    anime: "Anime",
     "sci-fi": "Sci-Fi",
     fantasy: "Fantasy",
-    anime: "Anime",
-    "retro-games": "Retro",
-    convention: "Con",
-    museum: "Museum",
     concert: "Concert",
-    fair: "Fair",
     park: "Park",
     movie: "Movie",
-    haunted: "Haunt",
     other: "Other",
   };
+
+  /* zoo/science share museum color + label mapping */
+  const CAT_ALIAS = { zoo: "museum", science: "museum" };
 
   const el = {
     weekday: document.getElementById("weekday"),
@@ -741,6 +745,40 @@
     };
   }
 
+
+  function resolveCategory(raw) {
+    const c = String(raw || "other").toLowerCase().trim();
+    const mapped = CAT_ALIAS[c] || c;
+    if (CAT_LABEL[mapped]) return mapped;
+    return "other";
+  }
+
+  function categoryLabel(raw) {
+    const c = String(raw || "").toLowerCase().trim();
+    const mapped = CAT_ALIAS[c] || c;
+    if (CAT_LABEL[mapped]) return CAT_LABEL[mapped];
+    return raw || "";
+  }
+
+  /* Compact date tile: month on top, day/range below (America/Indiana/Indianapolis). */
+  function formatDateTile(ev) {
+    const start = new Date(ev.start);
+    const end = ev.end ? new Date(ev.end) : null;
+    const month = part(start, "month", { month: "short" }).toUpperCase();
+    const startDay = part(start, "day", { day: "numeric" });
+    let dayLine = startDay;
+    if (end && ymd(start) !== ymd(end)) {
+      const endMonth = part(end, "month", { month: "short" }).toUpperCase();
+      const endDay = part(end, "day", { day: "numeric" });
+      if (ymd(start).slice(0, 7) === ymd(end).slice(0, 7)) {
+        dayLine = startDay + "–" + endDay;
+      } else {
+        dayLine = startDay + "–" + endMonth + " " + endDay;
+      }
+    }
+    return { month: month, day: dayLine };
+  }
+
   function renderEvents(payload) {
     const now = new Date();
     const list = Array.isArray(payload && payload.events)
@@ -790,12 +828,26 @@
       groups.get(key).forEach(function (ev) {
         const row = document.createElement("article");
         row.className = "event";
+        const catKey = resolveCategory(ev.category);
+        row.dataset.category = catKey;
+
+        const tile = document.createElement("div");
+        tile.className = "event-date";
+        const tileParts = formatDateTile(ev);
+        const tileMonth = document.createElement("span");
+        tileMonth.className = "event-date-month";
+        tileMonth.textContent = tileParts.month;
+        const tileDay = document.createElement("span");
+        tileDay.className = "event-date-day";
+        tileDay.textContent = tileParts.day;
+        tile.appendChild(tileMonth);
+        tile.appendChild(tileDay);
+
+        const main = document.createElement("div");
+        main.className = "event-main";
         const title = document.createElement("div");
         title.className = "event-title";
         title.textContent = ev.title || "Untitled";
-        const cat = document.createElement("div");
-        cat.className = "event-cat";
-        cat.textContent = CAT_LABEL[ev.category] || ev.category || "";
         const meta = document.createElement("div");
         meta.className = "event-meta";
         const when = document.createElement("span");
@@ -813,16 +865,23 @@
             document.createTextNode("  ·  " + extra.join("  ·  "))
           );
         }
-        row.appendChild(title);
-        row.appendChild(cat);
-        row.appendChild(meta);
+        main.appendChild(title);
+        main.appendChild(meta);
         const notes = (ev.notes || "").trim();
         if (notes) {
           const notesEl = document.createElement("div");
           notesEl.className = "event-notes";
           notesEl.textContent = notes;
-          row.appendChild(notesEl);
+          main.appendChild(notesEl);
         }
+
+        const cat = document.createElement("div");
+        cat.className = "event-cat";
+        cat.textContent = categoryLabel(ev.category);
+
+        row.appendChild(tile);
+        row.appendChild(main);
+        row.appendChild(cat);
         section.appendChild(row);
       });
       el.track.appendChild(section);

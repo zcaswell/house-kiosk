@@ -123,7 +123,7 @@ This repo also ships optional supplements `data/events-b.json` and `data/events-
 }
 ```
 
-Categories: `sci-fi` · `fantasy` · `anime` · `retro-games` · `convention` · `museum` · `concert` · `fair` · `park` · `movie` · `haunted` · `other`
+Categories: `convention` · `haunted` · `museum` · `retro-games` · `book` · `fair` · `anime` · `sci-fi` · `fantasy` · `concert` · `park` · `movie` · `other`
 
 Ended events (past `end`, or past `start` when there is no `end`) are hidden. The rest are grouped by day and slowly scrolled; no mouse needed. When an event has `notes`, that text is shown under the meta line (never invented). `venue` appears in meta when present and not already covered by the title or city.
 
