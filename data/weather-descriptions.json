@@ -1,0 +1,293 @@
+{
+  "updatedAt": "2026-09-06T11:54:24.816203-04:00",
+  "codes": [
+    {
+      "wmo": [
+        0
+      ],
+      "id": "clear",
+      "label": "Clear",
+      "short": "Sunny",
+      "description": "Clear skies and bright sun.",
+      "icon": "sun"
+    },
+    {
+      "wmo": [
+        1
+      ],
+      "id": "mainly-clear",
+      "label": "Mainly Clear",
+      "short": "Mostly Sunny",
+      "description": "Mostly clear with only a few thin clouds.",
+      "icon": "sun"
+    },
+    {
+      "wmo": [
+        2
+      ],
+      "id": "partly-cloudy",
+      "label": "Partly Cloudy",
+      "short": "Partly Cloudy",
+      "description": "A mix of sun and clouds.",
+      "icon": "partly-cloudy"
+    },
+    {
+      "wmo": [
+        3
+      ],
+      "id": "overcast",
+      "label": "Overcast",
+      "short": "Cloudy",
+      "description": "Sky covered in clouds.",
+      "icon": "cloudy"
+    },
+    {
+      "wmo": [
+        45
+      ],
+      "id": "fog",
+      "label": "Fog",
+      "short": "Fog",
+      "description": "Reduced visibility in fog.",
+      "icon": "fog"
+    },
+    {
+      "wmo": [
+        48
+      ],
+      "id": "rime-fog",
+      "label": "Rime Fog",
+      "short": "Icy Fog",
+      "description": "Fog with rime ice forming on surfaces.",
+      "icon": "fog"
+    },
+    {
+      "wmo": [
+        51
+      ],
+      "id": "drizzle-light",
+      "label": "Light Drizzle",
+      "short": "Drizzle",
+      "description": "Light drizzle falling.",
+      "icon": "drizzle"
+    },
+    {
+      "wmo": [
+        53
+      ],
+      "id": "drizzle-moderate",
+      "label": "Moderate Drizzle",
+      "short": "Drizzle",
+      "description": "Steady moderate drizzle.",
+      "icon": "drizzle"
+    },
+    {
+      "wmo": [
+        55
+      ],
+      "id": "drizzle-dense",
+      "label": "Dense Drizzle",
+      "short": "Heavy Drizzle",
+      "description": "Dense, soaking drizzle.",
+      "icon": "drizzle"
+    },
+    {
+      "wmo": [
+        56
+      ],
+      "id": "freezing-drizzle-light",
+      "label": "Light Freezing Drizzle",
+      "short": "Icy Drizzle",
+      "description": "Light freezing drizzle that can ice roads.",
+      "icon": "drizzle"
+    },
+    {
+      "wmo": [
+        57
+      ],
+      "id": "freezing-drizzle-dense",
+      "label": "Dense Freezing Drizzle",
+      "short": "Icy Drizzle",
+      "description": "Dense freezing drizzle; expect slick surfaces.",
+      "icon": "drizzle"
+    },
+    {
+      "wmo": [
+        61
+      ],
+      "id": "rain-slight",
+      "label": "Slight Rain",
+      "short": "Light Rain",
+      "description": "Light rain.",
+      "icon": "rain"
+    },
+    {
+      "wmo": [
+        63
+      ],
+      "id": "rain-moderate",
+      "label": "Moderate Rain",
+      "short": "Rain",
+      "description": "Moderate rain falling.",
+      "icon": "rain"
+    },
+    {
+      "wmo": [
+        65
+      ],
+      "id": "rain-heavy",
+      "label": "Heavy Rain",
+      "short": "Heavy Rain",
+      "description": "Heavy rain.",
+      "icon": "rain"
+    },
+    {
+      "wmo": [
+        66
+      ],
+      "id": "freezing-rain-light",
+      "label": "Light Freezing Rain",
+      "short": "Freezing Rain",
+      "description": "Light freezing rain; ice hazard possible.",
+      "icon": "rain"
+    },
+    {
+      "wmo": [
+        67
+      ],
+      "id": "freezing-rain-heavy",
+      "label": "Heavy Freezing Rain",
+      "short": "Freezing Rain",
+      "description": "Heavy freezing rain; dangerous ice likely.",
+      "icon": "rain"
+    },
+    {
+      "wmo": [
+        71
+      ],
+      "id": "snow-slight",
+      "label": "Slight Snow",
+      "short": "Light Snow",
+      "description": "Light snow falling.",
+      "icon": "snow"
+    },
+    {
+      "wmo": [
+        73
+      ],
+      "id": "snow-moderate",
+      "label": "Moderate Snow",
+      "short": "Snow",
+      "description": "Moderate snowfall.",
+      "icon": "snow"
+    },
+    {
+      "wmo": [
+        75
+      ],
+      "id": "snow-heavy",
+      "label": "Heavy Snow",
+      "short": "Heavy Snow",
+      "description": "Heavy snow.",
+      "icon": "snow"
+    },
+    {
+      "wmo": [
+        77
+      ],
+      "id": "snow-grains",
+      "label": "Snow Grains",
+      "short": "Snow Grains",
+      "description": "Fine snow grains falling.",
+      "icon": "snow"
+    },
+    {
+      "wmo": [
+        80
+      ],
+      "id": "rain-showers-slight",
+      "label": "Slight Rain Showers",
+      "short": "Showers",
+      "description": "Brief light rain showers.",
+      "icon": "showers"
+    },
+    {
+      "wmo": [
+        81
+      ],
+      "id": "rain-showers-moderate",
+      "label": "Moderate Rain Showers",
+      "short": "Showers",
+      "description": "Moderate rain showers.",
+      "icon": "showers"
+    },
+    {
+      "wmo": [
+        82
+      ],
+      "id": "rain-showers-violent",
+      "label": "Violent Rain Showers",
+      "short": "Heavy Showers",
+      "description": "Intense rain showers.",
+      "icon": "showers"
+    },
+    {
+      "wmo": [
+        85
+      ],
+      "id": "snow-showers-slight",
+      "label": "Slight Snow Showers",
+      "short": "Snow Showers",
+      "description": "Light snow showers.",
+      "icon": "snow"
+    },
+    {
+      "wmo": [
+        86
+      ],
+      "id": "snow-showers-heavy",
+      "label": "Heavy Snow Showers",
+      "short": "Snow Showers",
+      "description": "Heavy snow showers.",
+      "icon": "snow"
+    },
+    {
+      "wmo": [
+        95
+      ],
+      "id": "thunderstorm",
+      "label": "Thunderstorm",
+      "short": "Storm",
+      "description": "Thunderstorm in the area.",
+      "icon": "storm"
+    },
+    {
+      "wmo": [
+        96
+      ],
+      "id": "thunderstorm-hail-slight",
+      "label": "Thunderstorm with Slight Hail",
+      "short": "Storm",
+      "description": "Thunderstorm with light hail.",
+      "icon": "storm"
+    },
+    {
+      "wmo": [
+        99
+      ],
+      "id": "thunderstorm-hail-heavy",
+      "label": "Thunderstorm with Heavy Hail",
+      "short": "Severe Storm",
+      "description": "Thunderstorm with heavy hail.",
+      "icon": "storm"
+    },
+    {
+      "wmo": [],
+      "id": "unknown",
+      "label": "Unknown",
+      "short": "Unknown",
+      "description": "Weather condition not recognized.",
+      "icon": "unknown"
+    }
+  ]
+}
