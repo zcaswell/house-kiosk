@@ -98,7 +98,7 @@ Setup tries `raspi-config` and `xset s off`. If the panel still sleeps, in `rasp
 
 ## Events
 
-Edit `data/events.json` in place (keep the existing shape) and save. The kiosk re-reads it every **5 minutes**. Reload the page to pick up a change immediately.
+Edit `data/events.json` in place (keep the existing shape) and save. The kiosk re-reads it every **hour**. Reload the page to pick up a change immediately.
 
 This repo also ships optional supplements `data/events-b.json` and `data/events-c.json` (`{ "events": [ … ] }`). `app.js` merges them with the primary file (by sibling path next to `EVENTS_URL` / `./data/events.json`), so the full calendar works without one oversized JSON blob.
 
@@ -155,7 +155,7 @@ Live Open-Meteo forecast using the latitude/longitude from config (template defa
 | --- | --- |
 | Clock | 1 second |
 | Weather | 15 minutes |
-| Events file | 5 minutes |
+| Events file | 1 hour |
 
 Change them in `config.js` or `config.local.js` (`clockIntervalMs`, `weatherIntervalMs`, `eventsIntervalMs`).
 

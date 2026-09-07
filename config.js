@@ -14,7 +14,7 @@ window.KIOSK_CONFIG = {
 
   clockIntervalMs: 1000,
   weatherIntervalMs: 15 * 60 * 1000,
-  eventsIntervalMs: 5 * 60 * 1000,
+  eventsIntervalMs: 60 * 60 * 1000,
 
   /* Empty = use local ./data/events.json.
    * For live updates from this repo, set EVENTS_URL in config.local.js to:

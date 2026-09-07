@@ -9,7 +9,7 @@
       locationName: "Your city",
       clockIntervalMs: 1000,
       weatherIntervalMs: 15 * 60 * 1000,
-      eventsIntervalMs: 5 * 60 * 1000,
+      eventsIntervalMs: 60 * 60 * 1000,
       EVENTS_URL: "",
     },
     window.KIOSK_CONFIG || {},
@@ -395,7 +395,7 @@
     if (!el.syncStatus) return;
     if (syncMode === "live" && lastSyncAt != null) {
       const next = new Date(
-        lastSyncAt + (cfg.eventsIntervalMs || 5 * 60 * 1000)
+        lastSyncAt + (cfg.eventsIntervalMs || 60 * 60 * 1000)
       );
       setSyncStatus(
         "live",
@@ -1010,7 +1010,7 @@
   setInterval(function () {
     loadWeather(false);
   }, cfg.weatherIntervalMs || 15 * 60 * 1000);
-  setInterval(loadEvents, cfg.eventsIntervalMs || 5 * 60 * 1000);
+  setInterval(loadEvents, cfg.eventsIntervalMs || 60 * 60 * 1000);
 
   document.addEventListener("visibilitychange", function () {
     if (!document.hidden) {
