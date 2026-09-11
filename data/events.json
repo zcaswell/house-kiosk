@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-07T08:57:48.927459-04:00",
+  "updatedAt": "2026-09-11T08:30:00-04:00",
   "location": "Shelbyville, IN",
   "events": [
     {
       "id": "field-museum-pokemon-2026",
-      "title": "Field Museum \u2014 Pok\u00e9mon Fossil Museum",
+      "title": "Field Museum — Pokémon Fossil Museum",
       "start": "2026-05-22T10:00:00-04:00",
       "end": "2027-04-11T17:00:00-04:00",
       "venue": "Field Museum",
@@ -13,17 +13,6 @@
       "category": "museum",
       "url": "https://www.fieldmuseum.org/exhibition/pokemon",
       "notes": "Open now through Apr 11, 2027. Early-morning sessions Sep 12 and Oct 10."
-    },
-    {
-      "id": "spider-man-brand-new-day-2026",
-      "title": "Spider-Man: Brand New Day",
-      "start": "2026-07-31T00:00:00-04:00",
-      "venue": "Wide theatrical (Alamo / AMC / Regal / Cinemark)",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "movie",
-      "url": "https://drafthouse.com/indianapolis/show/spider-man-brand-new-day",
-      "notes": "Opened Jul 31. Still in wide release as of Aug 30."
     },
     {
       "id": "columbus-zoo-lantern-2026",
@@ -35,7 +24,7 @@
       "distanceMiles": 175,
       "category": "other",
       "url": "https://www.columbuszoo.org/lantern-festival",
-      "notes": "Thu\u2013Sun evenings 7:30\u201310:30pm. Separate ticket. Closed Fri Sep 18 for Untamed gala."
+      "notes": "Thu–Sun evenings 7:30–10:30pm. Separate ticket. Closed Fri Sep 18 for Untamed gala."
     },
     {
       "id": "michigan-ren-fest-2026",
@@ -59,53 +48,7 @@
       "distanceMiles": 30,
       "category": "movie",
       "url": "https://www.tickmarq.com/sites/indyimax/showtimes",
-      "notes": "Nolan mythic-fantasy. 70mm IMAX through Sep 13; extra evening shows Sep 4 and Sep 9\u201313."
-    },
-    {
-      "id": "the-dog-stars-2026-08-28",
-      "title": "The Dog Stars",
-      "start": "2026-08-28T00:00:00-04:00",
-      "venue": "Wide theatrical + IMAX",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "sci-fi",
-      "url": "https://www.20thcenturystudios.com/movies/the-dog-stars",
-      "notes": "Ridley Scott post-apocalyptic. Playing now; no confirmed close date."
-    },
-    {
-      "id": "book-sanderson-blightfall-2026-09-01",
-      "title": "Blightfall (Sanderson & Patterson)",
-      "start": "2026-09-01T00:00:00-04:00",
-      "venue": "Release",
-      "city": "Online",
-      "distanceMiles": 0,
-      "category": "book",
-      "url": "https://www.penguinrandomhouse.com/books/731307/blightfall-by-brandon-sanderson-and-janci-patterson/",
-      "notes": "Confirmed. Skyward Flight / Riftwake #1. Hardcover, ebook, and audiobook all out Sep 1, 2026."
-    },
-    {
-      "id": "hunger-games-rerelease-2026-09",
-      "title": "The Hunger Games: All Five Films",
-      "start": "2026-09-03T00:00:00-04:00",
-      "end": "2026-09-07T23:59:00-04:00",
-      "venue": "Fathom at AMC / Regal / Landmark",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "sci-fi",
-      "url": "https://www.fathomentertainment.com/series/the-hunger-games-all-five-films/",
-      "notes": "Final night tonight (Sep 7). One film per night Sep 3\u20137 plus Sunrise sneak peeks."
-    },
-    {
-      "id": "akira-4k-imax-2026-09-04",
-      "title": "Akira 4K IMAX re-release",
-      "start": "2026-09-04T00:00:00-04:00",
-      "end": "2026-09-09T23:59:00-04:00",
-      "venue": "Alamo Drafthouse Indianapolis + select IMAX",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "anime",
-      "url": "https://drafthouse.com/indianapolis/show/akira-4k-subtitled",
-      "notes": "Alamo Indy Sep 4\u20139 (sub 6:15pm, dub 9:30pm). Also 4K/IMAX nationwide Sep 4."
+      "notes": "Last days: 70mm IMAX through Sep 13 at Indy IMAX / State Museum."
     },
     {
       "id": "onslaught-2026-09-04",
@@ -120,18 +63,6 @@
       "notes": "A24. Genetically engineered super-soldiers. Alamo Indy also Sep 3 previews."
     },
     {
-      "id": "star-trek-60th-2026",
-      "title": "Star Trek 60th Anniversary double features",
-      "start": "2026-09-04T00:00:00-04:00",
-      "end": "2026-09-08T23:59:00-04:00",
-      "venue": "Cinemark / AMC (not Alamo Indy)",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "sci-fi",
-      "url": "https://www.cinemark.com/movies-for-every-season-at-cinemark/star-trek-movies/",
-      "notes": "TOS episode + film double features Sep 4\u20137; Star Trek Day marathon Sep 8."
-    },
-    {
       "id": "indy-dunes-outdoor-adventure-2026",
       "title": "Indiana Dunes Outdoor Adventure Festival",
       "start": "2026-09-04T09:00:00-04:00",
@@ -141,19 +72,7 @@
       "distanceMiles": 165,
       "category": "park",
       "url": "https://www.nps.gov/indu/planyourvisit/outdoor_adventure_festival.htm",
-      "notes": "50+ free programs. Ranger Camp Sep 11\u201313 (registration required)."
-    },
-    {
-      "id": "blueberry-festival-plymouth-2026",
-      "title": "Marshall County Blueberry Festival",
-      "start": "2026-09-04T10:00:00-04:00",
-      "end": "2026-09-07T21:00:00-04:00",
-      "venue": "Centennial Park",
-      "city": "Plymouth, IN",
-      "distanceMiles": 130,
-      "category": "fair",
-      "url": "https://www.blueberryfestival.org/",
-      "notes": "Labor Day finale today. Parade Mon 9:30am; grounds open 9am\u20136pm."
+      "notes": "50+ free programs. Ranger Camp Sep 11–13 (registration required)."
     },
     {
       "id": "indy-scream-park-2026",
@@ -165,19 +84,7 @@
       "distanceMiles": 50,
       "category": "haunted",
       "url": "https://indyscreampark.com/hours/",
-      "notes": "Opens Sep 4. This week Fri\u2013Sat 7pm\u2013midnight. Season runs select nights through Nov 7."
-    },
-    {
-      "id": "bristol-ren-faire-2026",
-      "title": "Bristol Renaissance Faire (season closer)",
-      "start": "2026-09-05T10:00:00-04:00",
-      "end": "2026-09-07T18:00:00-04:00",
-      "venue": "Bristol Renaissance Faire",
-      "city": "Kenosha, WI",
-      "distanceMiles": 250,
-      "category": "fair",
-      "url": "https://renfair.com/bristol/",
-      "notes": "Final weekend wraps today (Sep 5\u20137), Cottagecore theme. Last chance this season."
+      "notes": "Opens Sep 4. This week Fri–Sat 7pm–midnight. Season runs select nights through Nov 7."
     },
     {
       "id": "ohio-ren-fest-2026",
@@ -189,29 +96,7 @@
       "distanceMiles": 100,
       "category": "fair",
       "url": "https://renfestival.com/",
-      "notes": "Weekends + Labor Day through Nov 1. Fantasy Weekend is Sep 12\u201313; Pirates Sep 19\u201320."
-    },
-    {
-      "id": "danny-elfman-chicago-2026-09-07",
-      "title": "Danny Elfman",
-      "start": "2026-09-07T20:30:00-04:00",
-      "venue": "Byline Bank Aragon Ballroom",
-      "city": "Chicago, IL",
-      "distanceMiles": 210,
-      "category": "concert",
-      "url": "https://www.choosechicago.com/event/danny-elfman-2026-north-american-tour/",
-      "notes": "Tonight 8:30pm at Aragon. Film scores / Nightmare Before Christmas / Beetlejuice-adjacent."
-    },
-    {
-      "id": "green-knight-alamo-2026-09-08",
-      "title": "The Green Knight",
-      "start": "2026-09-08T19:00:00-04:00",
-      "venue": "Alamo Drafthouse Indianapolis",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "fantasy",
-      "url": "https://drafthouse.com/indianapolis/show/the-green-knight",
-      "notes": "Repertory screening, 7pm."
+      "notes": "Weekends + Labor Day through Nov 1. Fantasy Weekend is Sep 12–13; Pirates Sep 19–20."
     },
     {
       "id": "hope-kan-kan-2026-09-09",
@@ -223,19 +108,7 @@
       "distanceMiles": 30,
       "category": "sci-fi",
       "url": "https://kankanindy.com/events/hope/",
-      "notes": "Na Hong-jin creature feature. Kan-Kan Sep 9\u201313; Alamo through Sep 16."
-    },
-    {
-      "id": "practical-magic-2-2026-09-11",
-      "title": "Practical Magic 2",
-      "start": "2026-09-10T00:00:00-04:00",
-      "end": "2026-10-01T23:59:00-04:00",
-      "venue": "Wide theatrical; Alamo midnight Margarita screening Sept 12",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "fantasy",
-      "url": "https://www.practicalmagicmovie.com/",
-      "notes": "NA theaters Sep 10 (WB). Alamo Indy midnight Margarita dress-up Sep 12, 10pm."
+      "notes": "Na Hong-jin creature feature. Kan-Kan Sep 9–13; Alamo through Sep 16."
     },
     {
       "id": "papa-23-2026",
@@ -247,7 +120,7 @@
       "distanceMiles": 215,
       "category": "retro-games",
       "url": "https://www.ifpapinball.com/papa23/",
-      "notes": "4-day competitive pinball. ~250-player cap. 4-day pass $150."
+      "notes": "Happening now through Sun. Qualifying Fri–Sat; Main finals Sun. The Pinball Capital, Stone Park IL."
     },
     {
       "id": "gak-oktoberfest-indy-2026",
@@ -259,7 +132,19 @@
       "distanceMiles": 25,
       "category": "fair",
       "url": "https://indianapolisgak.com/gakevents/oktoberfest/",
-      "notes": "52nd year. $5; under 12 free. Thu 4\u201310pm, Fri\u2013Sat 4\u201311pm."
+      "notes": "52nd year. $5; under 12 free. Thu 4–10pm, Fri–Sat 4–11pm."
+    },
+    {
+      "id": "practical-magic-2-2026-09-11",
+      "title": "Practical Magic 2",
+      "start": "2026-09-11T00:00:00-04:00",
+      "end": "2026-10-01T23:59:00-04:00",
+      "venue": "Wide theatrical; Alamo midnight Margarita screening Sept 12",
+      "city": "Indianapolis, IN",
+      "distanceMiles": 30,
+      "category": "fantasy",
+      "url": "https://www.practicalmagicmovie.com/",
+      "notes": "Opens today (Sep 11). Warner Bros fantasy sequel; wide theatrical Indy."
     },
     {
       "id": "rappig-crossing-2026",
@@ -271,7 +156,7 @@
       "distanceMiles": 30,
       "category": "convention",
       "url": "https://rappigcrossing.com/",
-      "notes": "Confirmed Sep 11\u201313 (not Labor Day). Tales of JRPG/fantasy fan con, camping theme. At-door $55 weekend."
+      "notes": "THIS WEEKEND. Tales Of fan con, Camping theme. Wyndham Indy Airport. Confirmed Sep 11–13 (not Labor Day)."
     },
     {
       "id": "cleveland-gaming-classic-2026",
@@ -283,7 +168,7 @@
       "distanceMiles": 300,
       "category": "retro-games",
       "url": "https://www.gamecleveland.com/",
-      "notes": "Free-play arcade, pinball, retro consoles. Fri preview 6\u201310pm; vendor hall Sat\u2013Sun. Edge of 300 miles."
+      "notes": "THIS WEEKEND Sep 11–13. Retro arcade/console expo, Cleveland."
     },
     {
       "id": "horrorhound-cincinnati-2026",
@@ -307,7 +192,7 @@
       "distanceMiles": 40,
       "category": "other",
       "url": "https://www.connerprairie.org/jupiter-flights-balloon-festival",
-      "notes": "Evenings Fri\u2013Sat 5\u201310pm (glow at dusk); morning flights Sat\u2013Sun 7\u20139:30am."
+      "notes": "Evenings Fri–Sat 5–10pm (glow at dusk); morning flights Sat–Sun 7–9:30am."
     },
     {
       "id": "fear-columbus-2026",
@@ -331,7 +216,7 @@
       "distanceMiles": 95,
       "category": "fantasy",
       "url": "https://thepower-con.com/",
-      "notes": "Unofficial He-Man/She-Ra con. Sat 10\u20136, Sun 10\u20135. Weekend $60."
+      "notes": "Unofficial He-Man/She-Ra con. Sat 10–6, Sun 10–5. Weekend $60."
     },
     {
       "id": "evansville-raptor-con-2026",
@@ -343,7 +228,7 @@
       "distanceMiles": 160,
       "category": "sci-fi",
       "url": "https://www.theraptorcon.com/",
-      "notes": "Pop-culture/comics/cosplay. Sat 11\u20137, Sun 11\u20135. Weekend $30."
+      "notes": "Pop-culture/comics/cosplay. Sat 11–7, Sun 11–5. Weekend $30."
     },
     {
       "id": "dupage-comic-con-fall-2026",
@@ -355,7 +240,7 @@
       "distanceMiles": 220,
       "category": "convention",
       "url": "https://mcconventions.com/dupage-comic-con/",
-      "notes": "One-day comics/toys/cosplay, 10am\u20135pm."
+      "notes": "One-day comics/toys/cosplay, 10am–5pm."
     },
     {
       "id": "fivestar-comic-con-middletown-2026",
@@ -367,7 +252,7 @@
       "distanceMiles": 95,
       "category": "convention",
       "url": "https://www.fivestarcomiccon.com/middletown-2026",
-      "notes": "Comics/anime/gaming/cosplay. Sat 10\u20136, early entry 9am."
+      "notes": "Comics/anime/gaming/cosplay. Sat 10–6, early entry 9am."
     },
     {
       "id": "midwest-toy-comic-fest-bloomington-il-2026",
@@ -379,11 +264,11 @@
       "distanceMiles": 230,
       "category": "convention",
       "url": "https://www.midwesttoycomicfest.com/",
-      "notes": "VA guests include Tiffany Grant and Tony Oliver. 10am\u20134pm both days."
+      "notes": "VA guests include Tiffany Grant and Tony Oliver. 10am–4pm both days."
     },
     {
       "id": "ohio-ren-fest-fantasy-weekend-2026",
-      "title": "Ohio Renaissance Festival \u2014 Fantasy Weekend",
+      "title": "Ohio Renaissance Festival — Fantasy Weekend",
       "start": "2026-09-12T10:30:00-04:00",
       "end": "2026-09-13T19:00:00-04:00",
       "venue": "Renaissance Park",
@@ -391,7 +276,7 @@
       "distanceMiles": 100,
       "category": "fantasy",
       "url": "https://renfestival.com/",
-      "notes": "Fantasy-themed weekend Sep 12\u201313 at Ohio Ren Fest."
+      "notes": "Fantasy-themed weekend Sep 12–13 at Ohio Ren Fest."
     },
     {
       "id": "cincinnati-fear-fest-2026",
@@ -415,7 +300,7 @@
       "distanceMiles": 210,
       "category": "haunted",
       "url": "https://13thfloorchicago.com/",
-      "notes": "Season Sep 12\u2013Nov 8. Sep nights: 12, 18, 19, 25, 26, 27. Online tickets only."
+      "notes": "Season Sep 12–Nov 8. Sep nights: 12, 18, 19, 25, 26, 27. Online tickets only."
     },
     {
       "id": "pokekon-south-bend-2026-09-13",
@@ -427,19 +312,19 @@
       "distanceMiles": 175,
       "category": "other",
       "url": "http://pokekon.com/southbend/",
-      "notes": "One-day Pok\u00e9mon collector/TCG show, 10am\u20135pm."
+      "notes": "One-day Pokémon collector/TCG show, 10am–5pm."
     },
     {
       "id": "transformers-movie-40th-2026",
       "title": "The Transformers: The Movie 40th Anniversary 4K",
       "start": "2026-09-17T00:00:00-04:00",
-      "end": "2026-09-21T23:59:00-04:00",
+      "end": "2026-09-23T23:59:00-04:00",
       "venue": "Fathom partners + Alamo Indy",
       "city": "Indianapolis, IN",
       "distanceMiles": 30,
       "category": "sci-fi",
-      "url": "https://www.fathomentertainment.com/transformers40thanniversaryhub/",
-      "notes": "Fathom + Alamo Indy. New theatrical-only post-credits chapter. Transformers Day Sep 17."
+      "url": "https://www.fathomentertainment.com/releases/the-transformers-the-movie-40th-anniversary/",
+      "notes": "Fathom 4K 40th anniversary Sep 17–23 (Alamo Indy lists from Sep 17). Includes new post-credits short."
     },
     {
       "id": "nappanee-apple-festival-2026",
@@ -462,8 +347,8 @@
       "city": "Indianapolis, IN",
       "distanceMiles": 30,
       "category": "anime",
-      "url": "https://www.cinemark.com/movies/ghost-in-the-shell-30th-anniversary-4k-sub",
-      "notes": "National start Sep 18. Cinemark Sep 20 sub / Sep 23 dub. Check local listings."
+      "url": "https://www.fandango.com/ghost-in-the-shell-30th-anniversary-4k-2026-246959/movie-overview",
+      "notes": "Lionsgate 4K 30th anniversary re-release begins Sep 18 (800+ theaters). Check local listings; Alamo Indy may not carry it."
     },
     {
       "id": "resident-evil-cregger-2026-09-18",
@@ -511,7 +396,7 @@
       "distanceMiles": 90,
       "category": "haunted",
       "url": "https://grimtrails.com/",
-      "notes": "Fri/Sat 8pm\u2013midnight. First nights Sep 18\u201319."
+      "notes": "Fri/Sat 8pm–midnight. First nights Sep 18–19."
     },
     {
       "id": "tinkerfest-2026-09-19",
@@ -523,7 +408,7 @@
       "distanceMiles": 30,
       "category": "museum",
       "url": "https://www.indianamuseum.org/event/tinkerfest-2/",
-      "notes": "Public day Sat Sep 19, 10am\u20135pm. Schools Sep 18. Included with museum admission."
+      "notes": "Public day Sat Sep 19, 10am–5pm. Schools Sep 18. Included with museum admission."
     },
     {
       "id": "honey-harvest-festival-2026-09-19",
@@ -546,7 +431,7 @@
       "distanceMiles": 80,
       "category": "fair",
       "url": "https://persimmonfestival.org/",
-      "notes": "Sep 19 Pioneer Village candlelight + Dutch oven; downtown vendors Mon Sep 21\u2013Sat Sep 26. Parade Sep 26 2pm."
+      "notes": "Sep 19 Pioneer Village candlelight + Dutch oven; downtown vendors Mon Sep 21–Sat Sep 26. Parade Sep 26 2pm."
     },
     {
       "id": "pokekon-evansville-2026-09-19",
@@ -558,7 +443,7 @@
       "distanceMiles": 160,
       "category": "other",
       "url": "http://pokekon.com/Evansville/",
-      "notes": "One-day Pok\u00e9mon show, 10am\u20135pm."
+      "notes": "One-day Pokémon show, 10am–5pm."
     },
     {
       "id": "johnny-appleseed-fest-2026",
@@ -570,7 +455,7 @@
       "distanceMiles": 125,
       "category": "fair",
       "url": "https://www.johnnyappleseedfest.com/future-festival-dates/",
-      "notes": "51st year. Free. Sat 10\u20136, Sun 10\u20135."
+      "notes": "51st year. Free. Sat 10–6, Sun 10–5."
     },
     {
       "id": "newfields-giants-2026",
@@ -586,7 +471,7 @@
     },
     {
       "id": "ohio-ren-fest-pirates-2026",
-      "title": "Ohio Renaissance Festival \u2014 Pirates Weekend",
+      "title": "Ohio Renaissance Festival — Pirates Weekend",
       "start": "2026-09-19T10:30:00-04:00",
       "end": "2026-09-20T19:00:00-04:00",
       "venue": "Renaissance Park",
@@ -594,7 +479,7 @@
       "distanceMiles": 100,
       "category": "fair",
       "url": "https://renfestival.com/",
-      "notes": "Pirates-themed weekend Sep 19\u201320."
+      "notes": "Pirates-themed weekend Sep 19–20."
     },
     {
       "id": "thirteenth-hour-indy-2026",
@@ -674,7 +559,7 @@
       "distanceMiles": 30,
       "category": "other",
       "url": "https://www.indianapoliszoo.com/zoo-events/zooboo/",
-      "notes": "Wed\u2013Sun 2pm to close. Included with admission. Sensory-friendly Wed Sep 30 and Wed Oct 28."
+      "notes": "Wed–Sun 2pm to close. Included with admission. Sensory-friendly Wed Sep 30 and Wed Oct 28."
     },
     {
       "id": "forgotten-island-2026-09-25",
@@ -709,7 +594,7 @@
       "distanceMiles": 95,
       "category": "convention",
       "url": "https://www.cincyexpos.com/cincinnati-comic-expo-homepage",
-      "notes": "Fri 3\u20138, Sat 10\u20137, Sun 10\u20135. First Financial Center (ex-Duke Energy)."
+      "notes": "Fri 3–8, Sat 10–7, Sun 10–5. First Financial Center (ex-Duke Energy)."
     },
     {
       "id": "kings-island-halloween-haunt-2026",
@@ -733,7 +618,7 @@
       "distanceMiles": 90,
       "category": "haunted",
       "url": "https://thewaverlyhillssanatorium.com/",
-      "notes": "Fridays and Saturdays. Gates 7:30pm\u2013midnight. Use 4301 E Pages Ln."
+      "notes": "Fridays and Saturdays. Gates 7:30pm–midnight. Use 4301 E Pages Ln."
     },
     {
       "id": "clayshire-castle-medieval-faire-2026",
@@ -757,7 +642,7 @@
       "distanceMiles": 100,
       "category": "other",
       "url": "http://pokekon.com/",
-      "notes": "One-day Pok\u00e9mon collector show, 10am\u20135pm."
+      "notes": "One-day Pokémon collector show, 10am–5pm."
     },
     {
       "id": "princess-mononoke-ghibli-fest-2026",
@@ -792,7 +677,7 @@
       "distanceMiles": 95,
       "category": "anime",
       "url": "http://northernkyanimefest.com/",
-      "notes": "One-day anime show 10am\u20135pm. $20; kids 11 and under free (1 per adult). Guests Chuck Huber, Tiffany Grant."
+      "notes": "One-day anime show 10am–5pm. $20; kids 11 and under free (1 per adult). Guests Chuck Huber, Tiffany Grant."
     },
     {
       "id": "destroy-all-monsters-alamo-2026-09-27",
@@ -837,7 +722,7 @@
       "distanceMiles": 45,
       "category": "haunted",
       "url": "https://www.connerprairie.org/headless-horseman",
-      "notes": "Thu\u2013Sun 5\u201310pm. GA on sale Sep 3. Hayride is a separate timed ticket."
+      "notes": "Thu–Sun 5–10pm. GA on sale Sep 3. Hayride is a separate timed ticket."
     },
     {
       "id": "louisville-zoo-boo-2026",
@@ -849,7 +734,7 @@
       "distanceMiles": 90,
       "category": "other",
       "url": "https://louisvillezoo.org/event/boo-at-the-zoo-2026/2026-10-01/",
-      "notes": "Select nights ~5\u201310pm. Sensory-friendly Oct 7; allergy-friendly Oct 28."
+      "notes": "Select nights ~5–10pm. Sensory-friendly Oct 7; allergy-friendly Oct 28."
     },
     {
       "id": "kentucky-kingdom-pumpkins-2026",
@@ -861,7 +746,7 @@
       "distanceMiles": 90,
       "category": "other",
       "url": "https://www.kentuckykingdom.com/explore-the-park/festivals-events/pumpkins-at-kentucky-kingdom/",
-      "notes": "Jack O'Lantern Spectacular moved here from Iroquois Park. Wed\u2013Sun. From $19.99."
+      "notes": "Jack O'Lantern Spectacular moved here from Iroquois Park. Wed–Sun. From $19.99."
     },
     {
       "id": "donnie-darko-25th-2026-10-02",
@@ -908,7 +793,7 @@
       "distanceMiles": 140,
       "category": "sci-fi",
       "url": "https://www.sciencecentral.org/event/sci-fi-central/",
-      "notes": "11th annual. 10am\u20135pm. Included with Science Central admission. Cosplay contest."
+      "notes": "11th annual. 10am–5pm. Included with Science Central admission. Cosplay contest."
     },
     {
       "id": "cleveland-anime-fest-2026-10-03",
@@ -920,7 +805,7 @@
       "distanceMiles": 290,
       "category": "anime",
       "url": "http://clevelandanimefest.com/",
-      "notes": "One-day anime collectors show, 10am\u20135pm. $20; kids free."
+      "notes": "One-day anime collectors show, 10am–5pm. $20; kids free."
     },
     {
       "id": "pans-labyrinth-20th-2026-10-09",
@@ -979,11 +864,11 @@
       "distanceMiles": 215,
       "category": "convention",
       "url": "https://collectaconusa.com/chicago-2/",
-      "notes": "TCG/anime/pop-culture. Sat 10\u20136, Sun 10\u20135. Same weekend as Windycon."
+      "notes": "TCG/anime/pop-culture. Sat 10–6, Sun 10–5. Same weekend as Windycon."
     },
     {
       "id": "ohio-ren-fest-time-travelers-2026",
-      "title": "Ohio Renaissance Festival \u2014 Time Travelers Weekend",
+      "title": "Ohio Renaissance Festival — Time Travelers Weekend",
       "start": "2026-10-10T10:30:00-04:00",
       "end": "2026-10-11T19:00:00-04:00",
       "venue": "Ohio Renaissance Festival",
@@ -1005,6 +890,18 @@
       "notes": "1984 film with live Elmer Bernstein score. 6pm. Clowes Memorial Hall."
     },
     {
+      "id": "pinball-expo-2026",
+      "title": "Pinball Expo 2026",
+      "start": "2026-10-14T08:00:00-04:00",
+      "end": "2026-10-17T23:59:00-04:00",
+      "venue": "Renaissance Schaumburg Convention Center Hotel",
+      "city": "Schaumburg, IL",
+      "distanceMiles": 200,
+      "category": "retro-games",
+      "url": "https://pinballexpo.com/",
+      "notes": "Wed–Sat Oct 14–17. Major Midwest pinball show; overlaps GDEX weekend."
+    },
+    {
       "id": "chrono-trigger-orchestra-chicago-2026-10-14",
       "title": "CHRONO TRIGGER Orchestra Concert: Melodies Across Time",
       "start": "2026-10-14T20:00:00-04:00",
@@ -1024,7 +921,7 @@
       "distanceMiles": 190,
       "category": "retro-games",
       "url": "https://www.thegdex.com/",
-      "notes": "Midwest game-dev expo. Thu Dev Day only; expo floor Fri\u2013Sun. Venue is Newark."
+      "notes": "Oct 15 Dev Day; expo Fri–Sun Oct 16–18 at Cherry Valley Hotel, Newark OH. Free-play arcade/pinball/retro in Underworld. Last-chance tickets through Sep 30."
     },
     {
       "id": "goatman-fest-2026",
@@ -1107,7 +1004,7 @@
       "distanceMiles": 250,
       "category": "convention",
       "url": "https://galaxycon.com/pages/galaxycon-st-louis",
-      "notes": "Fri 2\u20139, Sat 10\u20139, Sun 10\u20136. Guests include William Shatner."
+      "notes": "Fri 2–9, Sat 10–9, Sun 10–6. Guests include William Shatner."
     },
     {
       "id": "madcon-2026",
@@ -1143,7 +1040,7 @@
       "distanceMiles": 95,
       "category": "anime",
       "url": "https://www.nexusnippon.com/",
-      "notes": "One-day anime con, 10am\u20139pm. About $20."
+      "notes": "One-day anime con, 10am–9pm. About $20."
     },
     {
       "id": "feast-hunters-moon-2026",
@@ -1195,7 +1092,7 @@
     },
     {
       "id": "magic-high-school-movie-2026-11",
-      "title": "The Irregular at Magic High School THE MOVIE \u2013 Yotsuba Succession Arc",
+      "title": "The Irregular at Magic High School THE MOVIE – Yotsuba Succession Arc",
       "start": "2026-11-01T00:00:00-04:00",
       "end": "2026-11-04T23:59:00-05:00",
       "venue": "Crunchyroll + Sony select chains (Fandango 46176)",
@@ -1283,7 +1180,18 @@
       "distanceMiles": 95,
       "category": "retro-games",
       "url": "https://pincinnati.com/",
-      "notes": "120+ free-play pinball machines. Fri 2pm\u2013midnight, Sat 10am\u2013midnight, Sun 10am\u20132pm. Room block code PIN through Nov 19."
+      "notes": "120+ free-play pinball machines. Fri 2pm–midnight, Sat 10am–midnight, Sun 10am–2pm. Room block code PIN through Nov 19."
+    },
+    {
+      "id": "book-sanderson-fires-of-december-2026-12-08",
+      "title": "The Fires of December (Brandon Sanderson)",
+      "start": "2026-12-08T00:00:00-05:00",
+      "venue": "Tor Books / Release",
+      "city": "Online",
+      "distanceMiles": 0,
+      "category": "book",
+      "url": "https://torpublishinggroup.com/the-fires-of-december/?format=hardback&isbn=9781250462657",
+      "notes": "Confirmed. Standalone Cosmere novel (Hoid's Travails). Hardcover on sale Dec 8, 2026."
     },
     {
       "id": "book-turtleme-tbate-comic-12-2026-12-15",
@@ -1308,6 +1216,29 @@
       "notes": "Wide Dec 18. Alamo Indy also lists Dec 17 3pm/7pm. Tickets on sale."
     },
     {
+      "id": "book-xkarnation-demonic-tree-8-audible-2026-12-22",
+      "title": "Reborn as a Demonic Tree 8 (Audible) — XKarnation",
+      "start": "2026-12-22T00:00:00-05:00",
+      "venue": "Audible",
+      "city": "Online",
+      "distanceMiles": 0,
+      "category": "book",
+      "url": "https://www.audible.com/series/Reborn-as-a-Demonic-Tree-Audiobooks/B0CQQZ779J",
+      "notes": "Confirmed Audible release Dec 22, 2026 (Book 8 audio). Ebook Book 9 already out Sep 9; Book 9 audio not yet scheduled."
+    },
+    {
+      "id": "indy-classic-2027",
+      "title": "Indy Classic Computer and Video Game Expo 2027",
+      "start": "2027-03-20T09:00:00-04:00",
+      "end": "2027-03-21T17:00:00-04:00",
+      "venue": "Wyndham Indianapolis Airport Hotel",
+      "city": "Indianapolis, IN",
+      "distanceMiles": 30,
+      "category": "retro-games",
+      "url": "https://indyclassic.org/",
+      "notes": "Confirmed Mar 20–21 2027. Retro computers, arcade, consoles. Local — easy lock."
+    },
+    {
       "id": "popcon-indy-2027",
       "title": "PopCon Indy 2027",
       "start": "2027-03-26T10:00:00-04:00",
@@ -1328,7 +1259,7 @@
       "distanceMiles": 250,
       "category": "retro-games",
       "url": "https://evolutionpinball.com/pinball-events",
-      "notes": "Major pinball show. Confirm venue details closer to date."
+      "notes": "Apr 15–17 2027, Kalamazoo MI. Official via evolutionpinball."
     },
     {
       "id": "midwest-gaming-classic-2027",
@@ -1340,7 +1271,19 @@
       "distanceMiles": 300,
       "category": "retro-games",
       "url": "https://evolutionpinball.com/pinball-events",
-      "notes": "Large Midwest arcade/pinball classic. Edge of ~300 miles. Lock early."
+      "notes": "Confirmed Apr 23–25 2027, Baird Center, Milwaukee WI (~280 mi). Lock early."
+    },
+    {
+      "id": "ann-arbor-vfw-pinball-2027",
+      "title": "Ann Arbor VFW Pinball Showcase 2027",
+      "start": "2027-04-24T10:00:00-04:00",
+      "end": "2027-04-25T17:00:00-04:00",
+      "venue": "VFW Pinball Museum",
+      "city": "Ann Arbor / Brighton, MI",
+      "distanceMiles": 260,
+      "category": "retro-games",
+      "url": "https://vfwpinball.com/?p=128",
+      "notes": "Confirmed Sat–Sun Apr 24–25 2027 + VIP Fri. Largest unique-game pinball show in NA; ticket reservations required."
     },
     {
       "id": "c2e2-2027",
@@ -1376,7 +1319,7 @@
       "distanceMiles": 30,
       "category": "convention",
       "url": "https://www.indianacomicconvention.com/",
-      "notes": "Save-the-date Jun 4\u20136, 2027 at Indiana Convention Center."
+      "notes": "Save-the-date Jun 4–6, 2027 at Indiana Convention Center."
     },
     {
       "id": "gen-con-2027",
