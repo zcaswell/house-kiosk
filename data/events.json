@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T08:15:00-04:00",
+  "updatedAt": "2026-09-22T00:38:00-04:00",
   "location": "Shelbyville, IN",
   "events": [
     {
@@ -255,17 +255,6 @@
       "notes": "Fri/Sat nights Sep 19–Oct 31; bonus Sundays Oct 18 & 25. Gates 7pm."
     },
     {
-      "id": "crunchyroll-anime-night-alamo-2026-09-21",
-      "title": "Crunchyroll Anime Night Sneak Peek",
-      "start": "2026-09-21T19:00:00-04:00",
-      "venue": "Alamo Drafthouse Indianapolis",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "anime",
-      "url": "https://drafthouse.com/show/crunchyroll-anime-night-sneak-peek-9-21-2026",
-      "notes": "Fall-season episode preview, Japanese with English subs"
-    },
-    {
       "id": "dark-city-alamo-2026-09-22",
       "title": "Dark City",
       "start": "2026-09-22T19:00:00-04:00",
@@ -429,6 +418,18 @@
       "category": "other",
       "url": "http://pokekon.com/",
       "notes": "One-day Pokémon collector show, 10am–5pm."
+    },
+    {
+      "id": "fountain-city-fandemonium-2026",
+      "title": "Fountain City Fandemonium 2026",
+      "start": "2026-09-26T10:00:00-04:00",
+      "end": "2026-09-26T15:00:00-04:00",
+      "venue": "Bryan Main Library / Williams County Public Library, 107 E High St",
+      "city": "Bryan, OH",
+      "distanceMiles": 150,
+      "category": "convention",
+      "url": "https://fancons.com/events/info/28448/fountain-city-fandemonium-2026",
+      "notes": "Free library pop-culture/gaming con, Sat 10am–3pm. Local news + FanCons."
     },
     {
       "id": "princess-mononoke-ghibli-fest-2026",
@@ -745,6 +746,18 @@
       "url": "https://www.auditoriumtheatre.org/events/detail/chrono-trigger"
     },
     {
+      "id": "gamehole-con-2026",
+      "title": "Gamehole Con 2026",
+      "start": "2026-10-15T08:00:00-04:00",
+      "end": "2026-10-18T18:00:00-04:00",
+      "venue": "Alliant Energy Center Exhibition Hall",
+      "city": "Madison, WI",
+      "distanceMiles": 310,
+      "category": "convention",
+      "url": "https://gameholecon.com/",
+      "notes": "Major tabletop RPG/board/minis con. Thu–Sun Oct 15–18. Slightly over 300 mi (~Madison)."
+    },
+    {
       "id": "gdex-2026",
       "title": "GDEX 2026",
       "start": "2026-10-15T10:00:00-04:00",
@@ -996,25 +1009,25 @@
       "id": "detroit-retro-gaming-show-2026-11-07",
       "title": "Detroit Retro Gaming Show",
       "start": "2026-11-07T10:00:00-05:00",
-      "end": "2026-11-07T17:00:00-05:00",
+      "end": "2026-11-07T16:00:00-05:00",
       "venue": "Southfield Pavilion",
       "city": "Southfield, MI",
-      "distanceMiles": 305,
+      "distanceMiles": 245,
       "category": "retro-games",
-      "url": "https://fancons.com/events/schedule.php?loc=usMI&type=videogames&year=2026",
-      "notes": "Edge of range"
+      "url": "https://www.detroitretrogamingshow.com/event-details/detroit-retro-gaming-show-2026",
+      "notes": "Sat Nov 7, 10am–4pm (VIP 9am). Southfield Pavilion. Guest T.C. Carson (Kratos). GA ~$15 cash. Edge of range."
     },
     {
       "id": "torg-gaming-expo-2026",
       "title": "TORG Gaming Expo 2026",
       "start": "2026-11-14T10:00:00-05:00",
-      "end": "2026-11-15T18:00:00-05:00",
-      "venue": "Greater Columbus Convention Center",
+      "end": "2026-11-15T15:00:00-05:00",
+      "venue": "Greater Columbus Convention Center, 400 N High St",
       "city": "Columbus, OH",
       "distanceMiles": 175,
       "category": "retro-games",
       "url": "https://www.torgevents.com/event-details/torg-gaming-expo-2026-10-year-anniversary",
-      "notes": "10th anniversary. Weekend $50."
+      "notes": "10th anniversary. Fri badge pickup 4–10pm. Sat VIP 9am / Gen 10am–6pm; Sun VIP 9am / Gen 10am–3pm. Weekend pass $50. Verified FanCons Nov 14–15 + official torgevents.com."
     },
     {
       "id": "hunger-games-sunrise-reaping-2026-11-20",
@@ -1049,6 +1062,18 @@
       "category": "book",
       "url": "https://aethonbooks.com/book/the-stubborn-skill-grinder-in-a-time-loop/",
       "notes": "Confirmed Aethon ebook Nov 25, 2026. Book 5 out Aug 26, 2026."
+    },
+    {
+      "id": "effing-con-2026",
+      "title": "Effing-Con 2026",
+      "start": "2026-11-28T09:00:00-05:00",
+      "end": "2026-11-28T19:00:00-05:00",
+      "venue": "Thelma Keller Convention Center, 1301 Ave of Mid-America",
+      "city": "Effingham, IL",
+      "distanceMiles": 150,
+      "category": "retro-games",
+      "url": "https://effing-con.com/",
+      "notes": "Video + tabletop game con. Sat Nov 28, 9am–7pm. Only Effingham gaming con."
     },
     {
       "id": "galaxycon-columbus-2026-12",
@@ -1118,6 +1143,18 @@
       "notes": "Confirmed Audible release Dec 22, 2026 (Book 8 audio). Ebook Book 9 already out Sep 9; Book 9 audio not yet scheduled."
     },
     {
+      "id": "capricon-47-2027",
+      "title": "Capricon 47: No Strings Attached!",
+      "start": "2027-01-28T10:00:00-05:00",
+      "end": "2027-01-31T18:00:00-05:00",
+      "venue": "Marriott Chicago O'Hare, 8535 W Higgins Rd",
+      "city": "Chicago, IL",
+      "distanceMiles": 205,
+      "category": "sci-fi",
+      "url": "https://capricon.org/",
+      "notes": "Literary SF/fantasy con Jan 28–31 2027. GoH Mary Robinette Kowal. Theme: muppets/puppets whimsy."
+    },
+    {
       "id": "book-nobody103-zenith-of-sorcery-1-2027-03-09",
       "title": "Zenith of Sorcery Book 1 (nobody103)",
       "start": "2027-03-09T00:00:00-04:00",
@@ -1127,6 +1164,18 @@
       "category": "book",
       "url": "https://bulkbookstore.com/zenith-of-sorcery-book-1-9781638494782",
       "notes": "Confirmed Mar 9 2027 hardcover (Aethon Vault / S&S). ISBN 9781638494782. Domagoj Kurmaic as nobody103."
+    },
+    {
+      "id": "gary-con-xix-2027",
+      "title": "Gary Con XIX 2027",
+      "start": "2027-03-18T08:00:00-04:00",
+      "end": "2027-03-21T16:00:00-04:00",
+      "venue": "Grand Geneva Resort & Spa / Timber Ridge Lodge",
+      "city": "Lake Geneva, WI",
+      "distanceMiles": 255,
+      "category": "convention",
+      "url": "https://garycon.com/",
+      "notes": "Tabletop RPG con celebrating Gary Gygax. Mar 18–21 2027. Badges/hoteling already opened Jul–Sep 2026."
     },
     {
       "id": "indy-classic-2027",
@@ -1163,6 +1212,18 @@
       "url": "https://popcon.us/popcon-indy/"
     },
     {
+      "id": "concinnity-27-2027",
+      "title": "Concinnity 27",
+      "start": "2027-04-10T10:00:00-04:00",
+      "end": "2027-04-10T22:00:00-04:00",
+      "venue": "MSOE Diercks Hall, 1025 N Milwaukee St",
+      "city": "Milwaukee, WI",
+      "distanceMiles": 270,
+      "category": "convention",
+      "url": "https://concinnitycon.weebly.com/",
+      "notes": "One-day gaming/sci-fi/anime con Sat Apr 10 2027. Door tickets; adult ~$25."
+    },
+    {
       "id": "pinball-at-the-zoo-2027",
       "title": "Pinball at the Zoo 2027",
       "start": "2027-04-15T10:00:00-04:00",
@@ -1185,6 +1246,18 @@
       "category": "retro-games",
       "url": "https://evolutionpinball.com/pinball-events",
       "notes": "Confirmed Apr 23–25 2027, Baird Center, Milwaukee WI (~280 mi). Lock early."
+    },
+    {
+      "id": "farmageddon-2027",
+      "title": "Farmageddon 2027",
+      "start": "2027-04-23T10:00:00-04:00",
+      "end": "2027-04-25T18:00:00-04:00",
+      "venue": "Farmer City American Legion",
+      "city": "Farmer City, IL",
+      "distanceMiles": 160,
+      "category": "convention",
+      "url": "https://farmageddon137.com/",
+      "notes": "Tabletop RPG con (Pathfinder/Starfinder/D&D AL). Weekend ~$25; proceeds to local youth. Same weekend as MGC."
     },
     {
       "id": "ann-arbor-vfw-pinball-2027",
@@ -1235,6 +1308,30 @@
       "notes": "Save-the-date Jun 4–6, 2027 at Indiana Convention Center."
     },
     {
+      "id": "origins-game-fair-2027",
+      "title": "Origins Game Fair 2027",
+      "start": "2027-06-09T10:00:00-04:00",
+      "end": "2027-06-13T18:00:00-04:00",
+      "venue": "Greater Columbus Convention Center",
+      "city": "Columbus, OH",
+      "distanceMiles": 175,
+      "category": "convention",
+      "url": "https://www.originsgamefair.com/",
+      "notes": "Major tabletop gaming fair Jun 9–13 2027. Board/RPG/minis/TCG. Registration open for 2026 guests at 2026 prices."
+    },
+    {
+      "id": "omgcon-2027",
+      "title": "OMG!con 2027",
+      "start": "2027-06-11T09:00:00-04:00",
+      "end": "2027-06-13T17:00:00-04:00",
+      "venue": "Owensboro Convention Center, 501 W 2nd St",
+      "city": "Owensboro, KY",
+      "distanceMiles": 140,
+      "category": "convention",
+      "url": "https://omgcon.com/",
+      "notes": "Pop-culture/gaming festival Jun 11–13 2027. Large game room hours Fri–Sun. Theme: OMG Pop Idol!"
+    },
+    {
       "id": "gen-con-2027",
       "title": "Gen Con 2027 (60th)",
       "start": "2027-08-05T10:00:00-04:00",
@@ -1245,6 +1342,30 @@
       "category": "convention",
       "url": "https://www.gencon.com/attend/futuredates",
       "notes": "Highest-priority local flag. Badges early 2027. 2026 already happened (sold out)."
+    },
+    {
+      "id": "mrge-2027",
+      "title": "Michigan Retro Game Expo (MRGE) 2027",
+      "start": "2027-08-28T10:00:00-04:00",
+      "end": "2027-08-29T16:00:00-04:00",
+      "venue": "Delta Hotels Marriott, 2747 S 11th St",
+      "city": "Kalamazoo, MI",
+      "distanceMiles": 190,
+      "category": "retro-games",
+      "url": "https://www.mrgexpo.com/",
+      "notes": "Two-day show Aug 28–29 2027. Sat 10am–6pm (VIP 9:30); Sun 10am–4pm. Free-play arcade/retro + vendors + board games."
+    },
+    {
+      "id": "grandcon-2027",
+      "title": "GrandCon 2027",
+      "start": "2027-09-03T10:00:00-04:00",
+      "end": "2027-09-05T17:00:00-04:00",
+      "venue": "DeVos Place, 303 Monroe Ave NW",
+      "city": "Grand Rapids, MI",
+      "distanceMiles": 240,
+      "category": "convention",
+      "url": "https://www.grand-con.com/new-page",
+      "notes": "Michigan tabletop gaming convention Sep 3–5 2027 at DeVos Place. Official future dates page."
     }
   ]
 }
