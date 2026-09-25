@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T00:38:00-04:00",
+  "updatedAt": "2026-09-25T08:05:00-04:00",
   "location": "Shelbyville, IN",
   "events": [
     {
@@ -39,18 +39,6 @@
       "notes": "Weekends through Oct 4. Hollygrove, Holly MI."
     },
     {
-      "id": "onslaught-2026-09-04",
-      "title": "Onslaught",
-      "start": "2026-09-04T00:00:00-04:00",
-      "end": "2026-09-24T23:59:00-04:00",
-      "venue": "Wide theatrical",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "sci-fi",
-      "url": "https://a24films.com/films/onslaught",
-      "notes": "A24. Still listed Indy as of Sep 18; domestic run winding down — check theater day-of. No official final end date."
-    },
-    {
       "id": "indy-scream-park-2026",
       "title": "Indy Scream Park",
       "start": "2026-09-04T19:00:00-04:00",
@@ -77,14 +65,14 @@
     {
       "id": "practical-magic-2-2026-09-11",
       "title": "Practical Magic 2",
-      "start": "2026-09-11T00:00:00-04:00",
-      "end": "2026-10-01T23:59:00-04:00",
+      "start": "2026-09-10T00:00:00-04:00",
+      "end": "2026-10-10T23:59:00-04:00",
       "venue": "Wide theatrical; Alamo midnight Margarita screening Sept 12",
       "city": "Indianapolis, IN",
       "distanceMiles": 30,
       "category": "fantasy",
       "url": "https://www.practicalmagicmovie.com/",
-      "notes": "Still playing Indy. Fantasy/witch sequel. Alamo Indy listed through ~Sep 23."
+      "notes": "Opened Sep 10 NA (WB). Still playing Indy into early Oct (Alamo/AMC). Fantasy/witch sequel."
     },
     {
       "id": "fear-columbus-2026",
@@ -109,42 +97,6 @@
       "category": "haunted",
       "url": "https://13thfloorchicago.com/",
       "notes": "Season Sep 12–Nov 8. Sep nights: 12, 18, 19, 25, 26, 27. Online tickets only."
-    },
-    {
-      "id": "childrens-museum-indy-closed-2026-09",
-      "title": "Children’s Museum of Indianapolis — Campus Closed",
-      "start": "2026-09-14T00:00:00-04:00",
-      "end": "2026-09-25T23:59:00-04:00",
-      "venue": "The Children’s Museum of Indianapolis",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 28,
-      "category": "museum",
-      "url": "https://www.childrensmuseum.org/closure",
-      "notes": "Entire campus closed Sep 14–25 for electrical/HVAC/plumbing. Reopens Sat Sep 26."
-    },
-    {
-      "id": "transformers-movie-40th-2026",
-      "title": "The Transformers: The Movie 40th Anniversary 4K",
-      "start": "2026-09-17T00:00:00-04:00",
-      "end": "2026-09-22T23:59:00-04:00",
-      "venue": "Fathom partners + Alamo Indy",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "sci-fi",
-      "url": "https://www.fathomentertainment.com/releases/the-transformers-the-movie-40th-anniversary/",
-      "notes": "Fathom 4K 40th anniversary Sep 17–22 (six days). Includes new post-credits short Optimus Prime: Awakening. Alamo Indy from Sep 17."
-    },
-    {
-      "id": "ghost-in-the-shell-30th-2026-09-18",
-      "title": "Ghost in the Shell 30th Anniversary 4K",
-      "start": "2026-09-18T00:00:00-04:00",
-      "end": "2026-09-23T23:59:00-04:00",
-      "venue": "Select theaters (~800 NA). Check Fandango 46176.",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "anime",
-      "url": "https://www.fandango.com/ghost-in-the-shell-30th-anniversary-4k-2026-246959/movie-overview",
-      "notes": "Lionsgate 4K 30th anniversary limited re-release from Sep 18. Verify Indy showtimes (not all AMCs)."
     },
     {
       "id": "resident-evil-cregger-2026-09-18",
@@ -231,18 +183,6 @@
       "notes": "Official Sep 19–Nov 1. Three haunts + festival midway (Burn Yard, Freaking Fun House, Detox). Select nights."
     },
     {
-      "id": "thirteenth-hour-indy-2026",
-      "title": "The Thirteenth Hour",
-      "start": "2026-09-19T19:00:00-04:00",
-      "end": "2026-10-31T23:00:00-04:00",
-      "venue": "915 S. Shortridge Rd",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "haunted",
-      "url": "https://thirteenthhourindy.com/indy-haunt-hours",
-      "notes": "Official opening night Sep 19. Select nights through Oct 31; timed entry. Five interconnected attractions."
-    },
-    {
       "id": "nightmare-forest-brandenburg-2026",
       "title": "Nightmare Forest",
       "start": "2026-09-19T19:00:00-04:00",
@@ -255,27 +195,16 @@
       "notes": "Fri/Sat nights Sep 19–Oct 31; bonus Sundays Oct 18 & 25. Gates 7pm."
     },
     {
-      "id": "dark-city-alamo-2026-09-22",
-      "title": "Dark City",
-      "start": "2026-09-22T19:00:00-04:00",
-      "venue": "Alamo Drafthouse Indianapolis",
+      "id": "thirteenth-hour-indy-2026",
+      "title": "The Thirteenth Hour",
+      "start": "2026-09-19T19:00:00-04:00",
+      "end": "2026-10-31T23:00:00-04:00",
+      "venue": "915 S. Shortridge Rd",
       "city": "Indianapolis, IN",
       "distanceMiles": 30,
-      "category": "sci-fi",
-      "url": "https://drafthouse.com/indianapolis/show/dark-city",
-      "notes": "Repertory screening, 7pm."
-    },
-    {
-      "id": "wow-20-years-chicago-2026",
-      "title": "World of Warcraft: 20 Years of Music",
-      "start": "2026-09-22T20:00:00-04:00",
-      "end": "2026-09-23T22:00:00-04:00",
-      "venue": "Auditorium Theatre",
-      "city": "Chicago, IL",
-      "distanceMiles": 210,
-      "category": "concert",
-      "url": "https://worldofwarcraft.helvepic.com/",
-      "notes": "8pm both nights. Full orchestra + choir + in-game visuals."
+      "category": "haunted",
+      "url": "https://thirteenthhourindy.com/indy-haunt-hours",
+      "notes": "Official opening night Sep 19. Select nights through Oct 31; timed entry. Five interconnected attractions."
     },
     {
       "id": "indy-zoo-zooboo-2026",
@@ -290,6 +219,18 @@
       "notes": "Wed–Sun 2pm to close. Included with admission. Sensory-friendly Wed Sep 30 and Wed Oct 28."
     },
     {
+      "id": "avengers-endgame-encore-2026-09-25",
+      "title": "Avengers: Endgame Encore",
+      "start": "2026-09-25T00:00:00-04:00",
+      "venue": "IMAX / Infinity Vision + standard",
+      "city": "Indianapolis, IN",
+      "distanceMiles": 30,
+      "category": "movie",
+      "url": "https://www.marvel.com/articles/movies/marvel-studios-avengers-endgame-returns-to-theaters-2026",
+      "notes": "Extra footage plus Doomsday sneak peek (extra peek on IMAX/Infinity Vision).",
+      "end": null
+    },
+    {
       "id": "forgotten-island-2026-09-25",
       "title": "Forgotten Island",
       "start": "2026-09-25T00:00:00-04:00",
@@ -302,17 +243,6 @@
       "notes": "DreamWorks / Universal. Filipino folklore fantasy animation (H.E.R., Liza Soberano, Dave Franco). In theaters Sep 25."
     },
     {
-      "id": "avengers-endgame-encore-2026-09-25",
-      "title": "Avengers: Endgame Encore",
-      "start": "2026-09-25T00:00:00-04:00",
-      "venue": "IMAX / Infinity Vision + standard",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "movie",
-      "url": "https://www.marvel.com/articles/movies/marvel-studios-avengers-endgame-returns-to-theaters-2026",
-      "notes": "Extra footage plus Doomsday sneak peek (extra peek on IMAX/Infinity Vision)."
-    },
-    {
       "id": "heart-of-the-beast-2026-09-25",
       "title": "Heart of the Beast",
       "start": "2026-09-25T00:00:00-04:00",
@@ -321,7 +251,20 @@
       "distanceMiles": 30,
       "category": "movie",
       "url": "https://www.paramountpictures.com/movies/heart-of-the-beast",
-      "notes": "Paramount. David Ayer; Brad Pitt survival thriller (Alaska / combat dog)."
+      "notes": "Paramount. David Ayer; Brad Pitt survival thriller (Alaska / combat dog).",
+      "end": null
+    },
+    {
+      "id": "primetime-2026-09-25",
+      "title": "Primetime",
+      "start": "2026-09-25T00:00:00-04:00",
+      "end": "2026-10-15T23:59:00-04:00",
+      "venue": "Theaters",
+      "city": "Indianapolis, IN",
+      "distanceMiles": 30,
+      "category": "movie",
+      "url": "https://www.cinemark.com/movie-news/articles/movies-coming-to-movie-theaters-in-september",
+      "notes": "Wide theatrical opener Fri Sep 25. Playing Indy (Regal UA Galaxy, AMC Traders Point, etc.)."
     },
     {
       "id": "indiana-state-museum-spooky-season-2026",
@@ -372,6 +315,18 @@
       "notes": "Fri–Sun only Sep 25–Nov 1; gates ~6:45pm. Online tickets only; sells out."
     },
     {
+      "id": "house-of-anguish-culbertson-2026",
+      "title": "House of Anguish at Culbertson Mansion",
+      "start": "2026-09-25T19:00:00-04:00",
+      "end": "2026-10-31T23:00:00-04:00",
+      "venue": "Culbertson Mansion State Historic Site",
+      "city": "New Albany, IN",
+      "distanceMiles": 90,
+      "category": "haunted",
+      "url": "https://www.indianamuseum.org/spooky-season/",
+      "notes": "ISM Spooky Season haunt. Select Fri/Sat nights ~7–11pm through late October."
+    },
+    {
       "id": "kings-island-halloween-haunt-2026",
       "title": "Kings Island Halloween Haunt",
       "start": "2026-09-25T19:00:00-04:00",
@@ -381,7 +336,7 @@
       "distanceMiles": 90,
       "category": "haunted",
       "url": "https://www.sixflags.com/kingsisland/events/halloween-haunt",
-      "notes": "Select nights. Mazes need Haunted Attractions Pass. Not recommended under 13."
+      "notes": "Select nights Sep 25–Oct 31. New JASON: Blood Reign maze; The Conjuring: Beyond Fear is an add-on."
     },
     {
       "id": "waverly-hills-haunt-2026",
@@ -408,6 +363,18 @@
       "notes": "Wars of the Roses theme; jousting, falconry, castle tours"
     },
     {
+      "id": "fountain-city-fandemonium-2026",
+      "title": "Fountain City Fandemonium 2026",
+      "start": "2026-09-26T10:00:00-04:00",
+      "end": "2026-09-26T15:00:00-04:00",
+      "venue": "Bryan Main Library / Williams County Public Library, 107 E High St",
+      "city": "Bryan, OH",
+      "distanceMiles": 150,
+      "category": "convention",
+      "url": "https://fcfandemonium.com/",
+      "notes": "Free library con Sat Sep 26 10am–3pm, Bryan Main Library. Guests/vendors; family-friendly."
+    },
+    {
       "id": "pokekon-louisville-2026-09-26",
       "title": "PokeKon Fest Louisville",
       "start": "2026-09-26T10:00:00-04:00",
@@ -418,18 +385,6 @@
       "category": "other",
       "url": "http://pokekon.com/",
       "notes": "One-day Pokémon collector show, 10am–5pm."
-    },
-    {
-      "id": "fountain-city-fandemonium-2026",
-      "title": "Fountain City Fandemonium 2026",
-      "start": "2026-09-26T10:00:00-04:00",
-      "end": "2026-09-26T15:00:00-04:00",
-      "venue": "Bryan Main Library / Williams County Public Library, 107 E High St",
-      "city": "Bryan, OH",
-      "distanceMiles": 150,
-      "category": "convention",
-      "url": "https://fancons.com/events/info/28448/fountain-city-fandemonium-2026",
-      "notes": "Free library pop-culture/gaming con, Sat 10am–3pm. Local news + FanCons."
     },
     {
       "id": "princess-mononoke-ghibli-fest-2026",
@@ -452,7 +407,8 @@
       "distanceMiles": 85,
       "category": "park",
       "url": "https://events.in.gov/event/full-moon-hike-3007",
-      "notes": "2.5 miles Trail 3. Red flashlight required. Later dates Oct 24, Nov 21, Dec 19."
+      "notes": "2.5 miles Trail 3. Red flashlight required. Later dates Oct 24, Nov 21, Dec 19.",
+      "end": null
     },
     {
       "id": "northern-ky-anime-fest-2026-09-27",
@@ -475,7 +431,8 @@
       "distanceMiles": 30,
       "category": "sci-fi",
       "url": "https://drafthouse.com/indianapolis/show/destroy-all-monsters",
-      "notes": "Toho. Sunday 4pm."
+      "notes": "Toho. Sunday 4pm.",
+      "end": null
     },
     {
       "id": "labyrinth-concert-cincy-2026-09-30",
@@ -486,7 +443,8 @@
       "distanceMiles": 90,
       "category": "concert",
       "url": "https://tafttheatre.org/events/2026/09/jim-hensons-labyrinth-in-concert",
-      "notes": "40th anniversary. Live band synced to Bowie vocals + film. Doors 6:30pm."
+      "notes": "40th anniversary. Live band synced to Bowie vocals + film. Doors 6:30pm.",
+      "end": null
     },
     {
       "id": "book-de-sherman-fractured-tower-2-2026-10-01",
@@ -497,7 +455,8 @@
       "distanceMiles": 0,
       "category": "book",
       "url": "https://www.amazon.com/Fractured-Tower-LitRPG-Adventure-ebook/dp/B0H82DX41V",
-      "notes": "Confirmed Oct 1, 2026 ebook; Audible same day per author (already recorded)."
+      "notes": "Confirmed Oct 1, 2026 ebook; Audible same day per author (already recorded).",
+      "end": null
     },
     {
       "id": "conner-prairie-headless-horseman-2026",
@@ -512,6 +471,18 @@
       "notes": "Thu–Sun 5–10pm. GA on sale Sep 3. Hayride is a separate timed ticket."
     },
     {
+      "id": "kentucky-kingdom-pumpkins-2026",
+      "title": "Pumpkins at Kentucky Kingdom",
+      "start": "2026-10-01T17:00:00-04:00",
+      "end": "2026-11-01T22:00:00-04:00",
+      "venue": "Kentucky Kingdom",
+      "city": "Louisville, KY",
+      "distanceMiles": 90,
+      "category": "other",
+      "url": "https://www.kentuckykingdom.com/explore-the-park/festivals-events/pumpkins-at-kentucky-kingdom/",
+      "notes": "Jack O'Lantern Spectacular moved here from Iroquois Park. Wed–Sun. From $19.99."
+    },
+    {
       "id": "louisville-zoo-boo-2026",
       "title": "Louisville Zoo Boo at the Zoo",
       "start": "2026-10-01T17:00:00-04:00",
@@ -524,16 +495,28 @@
       "notes": "Select nights ~5–10pm. Sensory-friendly Oct 7; allergy-friendly Oct 28."
     },
     {
-      "id": "kentucky-kingdom-pumpkins-2026",
-      "title": "Pumpkins at Kentucky Kingdom",
-      "start": "2026-10-01T17:00:00-04:00",
-      "end": "2026-11-01T22:00:00-04:00",
-      "venue": "Kentucky Kingdom",
-      "city": "Louisville, KY",
-      "distanceMiles": 90,
-      "category": "other",
-      "url": "https://www.kentuckykingdom.com/explore-the-park/festivals-events/pumpkins-at-kentucky-kingdom/",
-      "notes": "Jack O'Lantern Spectacular moved here from Iroquois Park. Wed–Sun. From $19.99."
+      "id": "spirited-away-live-on-stage-2026-10",
+      "title": "Spirited Away: Live on Stage (Studio Ghibli Fest)",
+      "start": "2026-10-01T19:00:00-04:00",
+      "end": "2026-10-08T23:59:00-04:00",
+      "venue": "Emagine Noblesville / select Fathom theaters",
+      "city": "Noblesville, IN",
+      "distanceMiles": 45,
+      "category": "anime",
+      "url": "https://gkids.com/ghiblifest/",
+      "notes": "Filmed stage adaptation (JP w/ EN subs). Fathom nights Thu Oct 1 & Thu Oct 8 ~7pm. Emagine Noblesville lists Oct 8."
+    },
+    {
+      "id": "digger-2026-10-02",
+      "title": "Digger",
+      "start": "2026-10-02T00:00:00-04:00",
+      "venue": "Wide theatrical + IMAX",
+      "city": "Indianapolis, IN",
+      "distanceMiles": 30,
+      "category": "sci-fi",
+      "url": "https://www.diggermovie.com/",
+      "notes": "Warner Bros. / Legendary. Alejandro G. Iñárritu; Tom Cruise. VistaVision + IMAX Oct 2.",
+      "end": null
     },
     {
       "id": "donnie-darko-25th-2026-10-02",
@@ -548,17 +531,6 @@
       "notes": "Fathom: Oct 2–4 only; 4K + exclusive Richard Kelly intro. Cult sci-fi/fantasy."
     },
     {
-      "id": "digger-2026-10-02",
-      "title": "Digger",
-      "start": "2026-10-02T00:00:00-04:00",
-      "venue": "Wide theatrical + IMAX",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "sci-fi",
-      "url": "https://www.diggermovie.com/",
-      "notes": "Warner Bros. / Legendary. Alejandro G. Iñárritu; Tom Cruise. VistaVision + IMAX Oct 2."
-    },
-    {
       "id": "verity-2026-10-02",
       "title": "Verity",
       "start": "2026-10-02T00:00:00-04:00",
@@ -567,7 +539,8 @@
       "distanceMiles": 30,
       "category": "movie",
       "url": "https://www.sonypictures.co.uk/movies/verity",
-      "notes": "Colleen Hoover adaptation (Anne Hathaway / Dakota Johnson). Thriller — wide Oct 2."
+      "notes": "Colleen Hoover adaptation (Anne Hathaway / Dakota Johnson). Thriller — wide Oct 2.",
+      "end": null
     },
     {
       "id": "archon-49-2026",
@@ -594,16 +567,16 @@
       "notes": "Separate ticket. Closed Oct 5, 12, 19. 6,000+ carved pumpkins."
     },
     {
-      "id": "sci-fi-central-fort-wayne-2026",
-      "title": "Sci-Fi Central",
+      "id": "central-illinois-horror-con-2026-10-03",
+      "title": "Central Illinois Horror Con",
       "start": "2026-10-03T10:00:00-04:00",
-      "end": "2026-10-03T17:00:00-04:00",
-      "venue": "Science Central, 1950 N Clinton St",
-      "city": "Fort Wayne, IN",
-      "distanceMiles": 140,
-      "category": "sci-fi",
-      "url": "https://www.sciencecentral.org/event/sci-fi-central/",
-      "notes": "11th annual. 10am–5pm. Included with Science Central admission. Cosplay contest."
+      "end": "2026-10-03T18:00:00-04:00",
+      "venue": "Holiday Inn Grand Prairie",
+      "city": "Peoria, IL",
+      "distanceMiles": 200,
+      "category": "convention",
+      "url": "https://centralillinoishorrorcon.com/",
+      "notes": "One-day horror con. Guests include Felissa Rose and Dave Sheridan."
     },
     {
       "id": "cleveland-anime-fest-2026-10-03",
@@ -618,15 +591,40 @@
       "notes": "One-day anime collectors show, 10am–5pm. $20; kids free."
     },
     {
+      "id": "sci-fi-central-fort-wayne-2026",
+      "title": "Sci-Fi Central",
+      "start": "2026-10-03T10:00:00-04:00",
+      "end": "2026-10-03T17:00:00-04:00",
+      "venue": "Science Central, 1950 N Clinton St",
+      "city": "Fort Wayne, IN",
+      "distanceMiles": 140,
+      "category": "sci-fi",
+      "url": "https://www.sciencecentral.org/event/sci-fi-central/",
+      "notes": "11th annual. 10am–5pm. Included with Science Central admission. Cosplay contest."
+    },
+    {
+      "id": "book-sanderson-fires-of-december-ebook-audio-2026-10-06",
+      "title": "The Fires of December — Ebook & Audiobook (Brandon Sanderson)",
+      "start": "2026-10-06T00:00:00-04:00",
+      "end": null,
+      "venue": "Dragonsteel / Macmillan Audio",
+      "city": "Online",
+      "distanceMiles": 0,
+      "category": "book",
+      "url": "https://torpublishinggroup.com/the-fires-of-december/?format=hardback&isbn=9781250462657",
+      "notes": "Confirmed early digital: ebook + audiobook Oct 6 2026. Hardcover still Dec 8 2026 Tor."
+    },
+    {
       "id": "pans-labyrinth-20th-2026-10-09",
       "title": "Pan's Labyrinth 20th Anniversary",
-      "start": "2026-10-09T00:00:00-04:00",
+      "start": "2026-10-08T00:00:00-04:00",
       "venue": "Limited theatrical (Fandango)",
       "city": "Indianapolis, IN",
       "distanceMiles": 30,
       "category": "fantasy",
       "url": "https://www.fathomentertainment.com/news/guillermo-del-toros-masterpiece-pans-labyrinth-returns-in-3d-for-20th-anniversary-from-cineverse-and-fathom-entertainment-on-october-9/",
-      "notes": "Del Toro-supervised 4K/3D. Starts Oct 9. Tickets on sale Sep 9."
+      "notes": "20th anniversary 4K/3D/HDR via Fathom/Cineverse. Calendar window Oct 8–15 (press often cites Oct 9 start).",
+      "end": "2026-10-15T23:59:00-04:00"
     },
     {
       "id": "parke-county-covered-bridge-2026",
@@ -639,6 +637,18 @@
       "category": "fair",
       "url": "https://www.coveredbridges.com/covered-bridge-festival",
       "notes": "No tickets. Ignore scammers."
+    },
+    {
+      "id": "childrens-museum-fright-academy-2026",
+      "title": "Children’s Museum — Fright Academy Haunted House",
+      "start": "2026-10-09T10:00:00-04:00",
+      "end": "2026-10-31T21:00:00-04:00",
+      "venue": "The Children’s Museum of Indianapolis",
+      "city": "Indianapolis, IN",
+      "distanceMiles": 28,
+      "category": "haunted",
+      "url": "https://www.childrensmuseum.org/haunted-house",
+      "notes": "Oct 9–31. Separate ticket from museum admission. Friendly Hours for younger kids; Frightening Hours Thu–Sat evenings."
     },
     {
       "id": "sekaicon-2026",
@@ -663,18 +673,6 @@
       "category": "sci-fi",
       "url": "https://www.windycon.org/",
       "notes": "Literary sci-fi con. Theme: Sanctuary Among the Stars. Pre-reg through Sep 15."
-    },
-    {
-      "id": "childrens-museum-fright-academy-2026",
-      "title": "Children’s Museum — Fright Academy Haunted House",
-      "start": "2026-10-09T10:00:00-04:00",
-      "end": "2026-10-31T21:00:00-04:00",
-      "venue": "The Children’s Museum of Indianapolis",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 28,
-      "category": "haunted",
-      "url": "https://www.childrensmuseum.org/haunted-house",
-      "notes": "Oct 9–31. Separate ticket from museum admission. Friendly Hours for younger kids; Frightening Hours Thu–Sat evenings."
     },
     {
       "id": "collect-a-con-chicago-2026",
@@ -721,7 +719,8 @@
       "distanceMiles": 30,
       "category": "concert",
       "url": "https://www.butlerartscenter.org/performances/ghostbusters-in-concert/",
-      "notes": "1984 film with live Elmer Bernstein score. 6pm. Clowes Memorial Hall."
+      "notes": "1984 film with live Elmer Bernstein score. 6pm. Clowes Memorial Hall.",
+      "end": null
     },
     {
       "id": "pinball-expo-2026",
@@ -743,7 +742,8 @@
       "city": "Chicago, IL",
       "distanceMiles": 210,
       "category": "concert",
-      "url": "https://www.auditoriumtheatre.org/events/detail/chrono-trigger"
+      "url": "https://www.auditoriumtheatre.org/events/detail/chrono-trigger",
+      "end": null
     },
     {
       "id": "gamehole-con-2026",
@@ -802,7 +802,8 @@
       "distanceMiles": 30,
       "category": "sci-fi",
       "url": "https://www.fandango.com/whalefall-2026-246280/movie-overview",
-      "notes": "20th Century / Fandango: Oct 16. Survival thriller from the novel (inside a whale)."
+      "notes": "20th Century / Fandango: Oct 16. Survival thriller from the novel (inside a whale).",
+      "end": null
     },
     {
       "id": "tsukicon-2026",
@@ -828,18 +829,6 @@
       "url": "https://gkids.com/ghiblifest/"
     },
     {
-      "id": "wildwood-2026-10-23",
-      "title": "Wildwood",
-      "start": "2026-10-23T00:00:00-04:00",
-      "end": "2026-11-12T23:59:00-05:00",
-      "venue": "Nationwide theatrical via Fathom",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "fantasy",
-      "url": "https://www.fathomentertainment.com/news/13748-2/",
-      "notes": "LAIKA + Fathom: nationwide U.S. Oct 23. Stop-motion fantasy epic."
-    },
-    {
       "id": "clayface-2026-10-23",
       "title": "Clayface",
       "start": "2026-10-23T00:00:00-04:00",
@@ -860,7 +849,20 @@
       "distanceMiles": 30,
       "category": "sci-fi",
       "url": "https://www.sonypictures.ca/movies/klara-and-the-sun",
-      "notes": "Sony: exclusively in theatres Oct 23. Taika Waititi; Jenna Ortega / Amy Adams. Ishiguro AF sci-fi."
+      "notes": "Sony: exclusively in theatres Oct 23. Taika Waititi; Jenna Ortega / Amy Adams. Ishiguro AF sci-fi.",
+      "end": null
+    },
+    {
+      "id": "wildwood-2026-10-23",
+      "title": "Wildwood",
+      "start": "2026-10-23T00:00:00-04:00",
+      "end": "2026-11-12T23:59:00-05:00",
+      "venue": "Nationwide theatrical via Fathom",
+      "city": "Indianapolis, IN",
+      "distanceMiles": 30,
+      "category": "fantasy",
+      "url": "https://www.fathomentertainment.com/news/13748-2/",
+      "notes": "LAIKA + Fathom: nationwide U.S. Oct 23. Stop-motion fantasy epic."
     },
     {
       "id": "galaxycon-st-louis-2026",
@@ -884,19 +886,7 @@
       "distanceMiles": 140,
       "category": "convention",
       "url": "https://tabletop.events/conventions/madcon-2026",
-      "notes": "Tabletop gaming; moved to a larger venue."
-    },
-    {
-      "id": "crown-point-anime-fest-2026-10-24",
-      "title": "Crown Point Anime-Fest",
-      "start": "2026-10-24T10:00:00-04:00",
-      "end": "2026-10-24T17:00:00-04:00",
-      "venue": "Lake County Fairgrounds Building 4H",
-      "city": "Crown Point, IN",
-      "distanceMiles": 180,
-      "category": "anime",
-      "url": "https://www.crownpointanimefest.com/",
-      "notes": "$20 advance and at door"
+      "notes": "Tabletop/board game con. Oct 23–25, Grand Wayne Convention Center, Fort Wayne."
     },
     {
       "id": "anime-blast-2026-10-24",
@@ -909,6 +899,18 @@
       "category": "anime",
       "url": "https://www.nexusnippon.com/",
       "notes": "One-day anime con, 10am–9pm. About $20."
+    },
+    {
+      "id": "crown-point-anime-fest-2026-10-24",
+      "title": "Crown Point Anime-Fest",
+      "start": "2026-10-24T10:00:00-04:00",
+      "end": "2026-10-24T17:00:00-04:00",
+      "venue": "Lake County Fairgrounds Building 4H",
+      "city": "Crown Point, IN",
+      "distanceMiles": 180,
+      "category": "anime",
+      "url": "https://www.crownpointanimefest.com/",
+      "notes": "$20 advance and at door"
     },
     {
       "id": "feast-hunters-moon-2026",
@@ -1061,7 +1063,8 @@
       "distanceMiles": 0,
       "category": "book",
       "url": "https://aethonbooks.com/book/the-stubborn-skill-grinder-in-a-time-loop/",
-      "notes": "Confirmed Aethon ebook Nov 25, 2026. Book 5 out Aug 26, 2026."
+      "notes": "Confirmed Aethon ebook Nov 25, 2026. Book 5 out Aug 26, 2026.",
+      "end": null
     },
     {
       "id": "effing-con-2026",
@@ -1107,7 +1110,8 @@
       "distanceMiles": 0,
       "category": "book",
       "url": "https://torpublishinggroup.com/the-fires-of-december/?format=hardback&isbn=9781250462657",
-      "notes": "Confirmed. Standalone Cosmere novel (Hoid's Travails). Hardcover on sale Dec 8, 2026."
+      "notes": "Confirmed Tor hardcover Dec 8 2026 (ISBN 9781250462657). Ebook + audiobook early digital Oct 6 2026 (separate feed entry).",
+      "end": null
     },
     {
       "id": "book-turtleme-tbate-comic-12-2026-12-15",
@@ -1118,7 +1122,8 @@
       "distanceMiles": 0,
       "category": "book",
       "url": "https://yenpress.com/titles/9798855413489-the-beginning-after-the-end-vol-12-comic",
-      "notes": "Confirmed Yen Press comic Vol. 12, Dec 15, 2026 (US). Novel Apotheosis already out May 19."
+      "notes": "Confirmed Yen Press comic Vol. 12, Dec 15, 2026 (US). Novel Apotheosis already out May 19.",
+      "end": null
     },
     {
       "id": "avengers-doomsday-2026-12-18",
@@ -1129,7 +1134,8 @@
       "distanceMiles": 30,
       "category": "movie",
       "url": "https://www.marvel.com/movies/avengers-doomsday",
-      "notes": "Wide Dec 18. Alamo Indy also lists Dec 17 3pm/7pm. Tickets on sale."
+      "notes": "Wide Dec 18. Alamo Indy also lists Dec 17 3pm/7pm. Tickets on sale.",
+      "end": null
     },
     {
       "id": "book-xkarnation-demonic-tree-8-audible-2026-12-22",
@@ -1140,7 +1146,8 @@
       "distanceMiles": 0,
       "category": "book",
       "url": "https://www.audible.com/series/Reborn-as-a-Demonic-Tree-Audiobooks/B0CQQZ779J",
-      "notes": "Confirmed Audible release Dec 22, 2026 (Book 8 audio). Ebook Book 9 already out Sep 9; Book 9 audio not yet scheduled."
+      "notes": "Audible Dec 22 2026 confirmed. Ebook already released (Aethon/Amazon ~Mar 2026).",
+      "end": null
     },
     {
       "id": "capricon-47-2027",
@@ -1155,6 +1162,18 @@
       "notes": "Literary SF/fantasy con Jan 28–31 2027. GoH Mary Robinette Kowal. Theme: muppets/puppets whimsy."
     },
     {
+      "id": "polar-vortex-11-2027",
+      "title": "Polar Vortex 11",
+      "start": "2027-02-12T00:00:00-05:00",
+      "end": "2027-02-14T23:59:00-05:00",
+      "venue": "TBD (tabletop.events)",
+      "city": "Lisle, IL",
+      "distanceMiles": 220,
+      "category": "convention",
+      "url": "https://polarvortex.games/",
+      "notes": "Tabletop / RPG / board game con. Feb 12–14 2027."
+    },
+    {
       "id": "book-nobody103-zenith-of-sorcery-1-2027-03-09",
       "title": "Zenith of Sorcery Book 1 (nobody103)",
       "start": "2027-03-09T00:00:00-04:00",
@@ -1163,7 +1182,20 @@
       "distanceMiles": 0,
       "category": "book",
       "url": "https://bulkbookstore.com/zenith-of-sorcery-book-1-9781638494782",
-      "notes": "Confirmed Mar 9 2027 hardcover (Aethon Vault / S&S). ISBN 9781638494782. Domagoj Kurmaic as nobody103."
+      "notes": "Confirmed Mar 9 2027 hardcover (Aethon Vault / S&S). ISBN 9781638494782. Domagoj Kurmaic as nobody103.",
+      "end": null
+    },
+    {
+      "id": "protospiel-indy-2027",
+      "title": "Protospiel Indy 2027",
+      "start": "2027-03-12T00:00:00-04:00",
+      "end": "2027-03-14T23:59:00-04:00",
+      "venue": "Launch Fishers",
+      "city": "Fishers, IN",
+      "distanceMiles": 30,
+      "category": "convention",
+      "url": "https://indyttgc.org/",
+      "notes": "Tabletop design / playtest weekend. Mar 12–14 2027."
     },
     {
       "id": "gary-con-xix-2027",
@@ -1198,7 +1230,8 @@
       "distanceMiles": 0,
       "category": "book",
       "url": "https://us.macmillan.com/books/9781250476265/overworld/",
-      "notes": "Confirmed Tor hardcover on sale Mar 23 2027. ISBN 9781250476265. LitRPG fantasy."
+      "notes": "Confirmed Tor hardcover on sale Mar 23 2027. ISBN 9781250476265. LitRPG fantasy.",
+      "end": null
     },
     {
       "id": "popcon-indy-2027",
@@ -1210,6 +1243,18 @@
       "distanceMiles": 30,
       "category": "convention",
       "url": "https://popcon.us/popcon-indy/"
+    },
+    {
+      "id": "chaosium-con-us-2027",
+      "title": "Chaosium Con US 2027",
+      "start": "2027-04-08T00:00:00-04:00",
+      "end": "2027-04-11T23:59:00-04:00",
+      "venue": "Ann Arbor Marriott Eagle Crest",
+      "city": "Ypsilanti, MI",
+      "distanceMiles": 270,
+      "category": "convention",
+      "url": "https://tabletop.events/conventions/chaosium-con-us-2027",
+      "notes": "Official Chaosium RPG convention. Apr 8–11 2027."
     },
     {
       "id": "concinnity-27-2027",
@@ -1236,18 +1281,6 @@
       "notes": "Apr 15–17 2027, Kalamazoo MI. Official via evolutionpinball."
     },
     {
-      "id": "midwest-gaming-classic-2027",
-      "title": "Midwest Gaming Classic 2027",
-      "start": "2027-04-23T10:00:00-04:00",
-      "end": "2027-04-25T18:00:00-04:00",
-      "venue": "Baird Center",
-      "city": "Milwaukee, WI",
-      "distanceMiles": 300,
-      "category": "retro-games",
-      "url": "https://evolutionpinball.com/pinball-events",
-      "notes": "Confirmed Apr 23–25 2027, Baird Center, Milwaukee WI (~280 mi). Lock early."
-    },
-    {
       "id": "farmageddon-2027",
       "title": "Farmageddon 2027",
       "start": "2027-04-23T10:00:00-04:00",
@@ -1260,6 +1293,18 @@
       "notes": "Tabletop RPG con (Pathfinder/Starfinder/D&D AL). Weekend ~$25; proceeds to local youth. Same weekend as MGC."
     },
     {
+      "id": "midwest-gaming-classic-2027",
+      "title": "Midwest Gaming Classic 2027",
+      "start": "2027-04-23T10:00:00-04:00",
+      "end": "2027-04-25T18:00:00-04:00",
+      "venue": "Baird Center",
+      "city": "Milwaukee, WI",
+      "distanceMiles": 300,
+      "category": "retro-games",
+      "url": "https://evolutionpinball.com/pinball-events",
+      "notes": "SOFT: Aggregators list Apr 23–25 2027 Baird Center Milwaukee; official site still shows 2026 only. Confirm before locking travel."
+    },
+    {
       "id": "ann-arbor-vfw-pinball-2027",
       "title": "Ann Arbor VFW Pinball Showcase 2027",
       "start": "2027-04-24T10:00:00-04:00",
@@ -1270,6 +1315,18 @@
       "category": "retro-games",
       "url": "https://vfwpinball.com/?p=128",
       "notes": "Confirmed Sat–Sun Apr 24–25 2027 + VIP Fri. Largest unique-game pinball show in NA; ticket reservations required."
+    },
+    {
+      "id": "lexicon-2027",
+      "title": "LexiCon 2027",
+      "start": "2027-04-30T00:00:00-04:00",
+      "end": "2027-05-02T23:59:00-04:00",
+      "venue": "TBD (tabletop.events)",
+      "city": "Lexington, KY",
+      "distanceMiles": 170,
+      "category": "convention",
+      "url": "https://tabletop.events/conventions/lexicon-2027",
+      "notes": "Tabletop / board / RPG con. Apr 30–May 2 2027."
     },
     {
       "id": "c2e2-2027",
@@ -1330,6 +1387,18 @@
       "category": "convention",
       "url": "https://omgcon.com/",
       "notes": "Pop-culture/gaming festival Jun 11–13 2027. Large game room hours Fri–Sun. Theme: OMG Pop Idol!"
+    },
+    {
+      "id": "indy-open-2027",
+      "title": "Indy Open 2027",
+      "start": "2027-06-12T00:00:00-04:00",
+      "end": "2027-06-13T23:59:00-04:00",
+      "venue": "Dallara Experience Hub",
+      "city": "Speedway, IN",
+      "distanceMiles": 30,
+      "category": "convention",
+      "url": "https://indianapolisgarrison.com/indyopen2027",
+      "notes": "Miniatures / skirmish gaming weekend. Jun 12–13 2027."
     },
     {
       "id": "gen-con-2027",
