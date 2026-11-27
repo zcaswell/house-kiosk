@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T08:30:00-05:00",
+  "updatedAt": "2026-11-27T08:30:00-05:00",
   "location": "Shelbyville, IN",
   "events": [
     {
@@ -39,16 +39,16 @@
       "notes": "Swizz Beatz and Alicia Keys collection. 4th floor."
     },
     {
-      "id": "godzilla-minus-zero-2026-11-06",
-      "title": "Godzilla Minus Zero",
-      "start": "2026-11-05T16:00:00-05:00",
-      "end": "2026-11-26T23:59:00-05:00",
-      "venue": "Wide theatrical (GKIDS); Alamo Drafthouse Indianapolis",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "sci-fi",
-      "url": "https://drafthouse.com/indianapolis/show/godzilla-minus-zero",
-      "notes": "CHANGED: Alamo Indy tickets are on sale with early shows Thu Nov 5 (4:00, 7:30 and 9:45pm). Wide release Fri Nov 6 (GKIDS). Takashi Yamazaki's follow-up to Godzilla Minus One."
+      "id": "lights-under-louisville-2026",
+      "title": "Lights Under Louisville (Mega Cavern underground light show)",
+      "start": "2026-11-13T09:00:00-05:00",
+      "end": "2027-01-02T22:00:00-05:00",
+      "venue": "Louisville Mega Cavern",
+      "city": "Louisville, KY",
+      "distanceMiles": 90,
+      "category": "other",
+      "url": "https://lightsunderlouisville.com/",
+      "notes": "Drive-through holiday light display inside an underground cavern; daily 9am–10pm."
     },
     {
       "id": "cincy-museum-center-holiday-junction-2026",
@@ -108,6 +108,30 @@
       "distanceMiles": 30,
       "category": "sci-fi",
       "url": "https://www.fandango.com/"
+    },
+    {
+      "id": "lincoln-park-zoolights-2026",
+      "title": "ZooLights (Lincoln Park Zoo)",
+      "start": "2026-11-20T16:30:00-06:00",
+      "end": "2027-01-03T21:00:00-06:00",
+      "venue": "Lincoln Park Zoo",
+      "city": "Chicago, IL",
+      "distanceMiles": 200,
+      "category": "museum",
+      "url": "https://www.lpzoo.org/pressroom/zoolights-2/",
+      "notes": "Free holiday lights 4:30–9pm; closed Tuesdays (except Dec 22 & 29), Thanksgiving, Christmas Eve and Christmas Day."
+    },
+    {
+      "id": "columbus-zoo-wildlights-2026",
+      "title": "Wildlights (Columbus Zoo and Aquarium, 38th year)",
+      "start": "2026-11-20T17:00:00-05:00",
+      "end": "2027-01-03T21:00:00-05:00",
+      "venue": "Columbus Zoo and Aquarium",
+      "city": "Powell, OH",
+      "distanceMiles": 160,
+      "category": "museum",
+      "url": "https://www.columbuszoo.org/wildlights",
+      "notes": "Holiday lights at the zoo; closed Thanksgiving, Christmas Eve and Christmas Day."
     },
     {
       "id": "winterlights-newfields-2026",
@@ -170,6 +194,18 @@
       "notes": "German-style holiday market. Opening ceremony Sat Nov 21 at 11:30am; runs through Dec 24."
     },
     {
+      "id": "brookfield-zoo-holiday-magic-2026",
+      "title": "Holiday Magic (Brookfield Zoo Chicago)",
+      "start": "2026-11-21T15:00:00-06:00",
+      "end": "2027-01-03T21:00:00-06:00",
+      "venue": "Brookfield Zoo Chicago",
+      "city": "Brookfield, IL",
+      "distanceMiles": 195,
+      "category": "museum",
+      "url": "https://www.brookfieldzoo.org/events/holiday-magic",
+      "notes": "Select nights 3–9pm: Nov 27–29; Dec 3–6, 10–13, 17–23, 26–31; Jan 1–3."
+    },
+    {
       "id": "christmas-at-the-zoo-indy-2026",
       "title": "Christmas at the Zoo",
       "start": "2026-11-21T17:00:00-05:00",
@@ -180,62 +216,6 @@
       "category": "museum",
       "url": "https://www.indianapoliszoo.com/zoo-events/christmas-at-the-zoo/",
       "notes": "Lights, hot cocoa and Santa's Magic Cottage from 5pm daily. Closed Thanksgiving, Christmas Eve/Day, NYE and New Year's Day. Sensory-friendly nights Dec 2 and 16."
-    },
-    {
-      "id": "book-dcc-rpg-core-rulebook-2026-11-23",
-      "title": "Dungeon Crawler Carl RPG: Core Rulebook (tie-in)",
-      "start": "2026-11-23T00:00:00-05:00",
-      "venue": "Renegade Game Studios",
-      "city": "Online",
-      "distanceMiles": 0,
-      "category": "book",
-      "url": "https://renegadegamestudios.com/dungeon-crawler-carl-rpg-core-rulebook/",
-      "notes": "Confirmed retail street date. 300+ page RPG hardcover, Floors 3-5. Not DCC 9."
-    },
-    {
-      "id": "doctor-who-satan-pit-fathom-2026-11-23",
-      "title": "Doctor Who Day: The Satan Pit",
-      "start": "2026-11-23T00:00:00-05:00",
-      "end": "2026-11-23T23:59:00-05:00",
-      "venue": "Fathom select theaters (check Fathom theater finder)",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "sci-fi",
-      "url": "https://www.fathomentertainment.com/releases/doctor-who-the-satan-pit/",
-      "notes": "Doctor Who Day, Mon Nov 23. The Impossible Planet and The Satan Pit re-edited into one feature (Tennant/Pip..."
-    },
-    {
-      "id": "book-sanderson-wind-and-truth-mmpb-2026-11-24",
-      "title": "Wind and Truth (Stormlight 5) mass-market paperback",
-      "start": "2026-11-24T00:00:00-05:00",
-      "venue": "Release (Tor)",
-      "city": "Online",
-      "distanceMiles": 0,
-      "category": "book",
-      "url": "https://www.barnesandnoble.com/w/wind-and-truth-brandon-sanderson/1147243773",
-      "notes": "CONFIRMED. Brandon Sanderson. Tor mass-market paperback, $12.99, 1,408 pages (ISBN 9781250319227)."
-    },
-    {
-      "id": "book-x-rhoden-x-stubborn-6-2026-11-25",
-      "title": "The Stubborn Skill-Grinder in a Time Loop 6 (X-RHODEN-X)",
-      "start": "2026-11-25T00:00:00-05:00",
-      "venue": "Aethon / Audible",
-      "city": "Online",
-      "distanceMiles": 0,
-      "category": "book",
-      "url": "https://aethonbooks.com/book/the-stubborn-skill-grinder-in-a-time-loop/",
-      "notes": "Confirmed Aethon ebook Nov 25, 2026. Book 5 out Aug 26, 2026. Book 5 audiobook came out Oct 14; Book 6 has no Audible listing yet. Re-verified Nov 2: Kindle preorder still Nov 25 (final book, #6)."
-    },
-    {
-      "id": "hexed-2026-11-25",
-      "title": "Hexed (Disney Animation)",
-      "start": "2026-11-25T00:00:00-05:00",
-      "venue": "Wide theatrical",
-      "city": "Indianapolis, IN",
-      "distanceMiles": 30,
-      "category": "fantasy",
-      "url": "https://www.boxofficemojo.com/calendar/2026-11-01/",
-      "notes": "Disney animated fantasy (Hailee Steinfeld, Jodie Foster), wide Wed Nov 25 for Thanksgiving."
     },
     {
       "id": "indiana-state-museum-celebration-crossing-2026",
@@ -510,6 +490,18 @@
       "notes": "Free: parade, Santa, live entertainment, new holiday market and tree lighting."
     },
     {
+      "id": "greenwood-lighted-trail-2026",
+      "title": "The Lighted Trail (Greenwood Amphitheater)",
+      "start": "2026-12-06T17:30:00-05:00",
+      "end": "2026-12-31T23:00:00-05:00",
+      "venue": "Greenwood Amphitheater, 100 Surina Way",
+      "city": "Greenwood, IN",
+      "distanceMiles": 25,
+      "category": "park",
+      "url": "https://www.festivalcountryindiana.com/lighted-trail",
+      "notes": "Free self-guided walk with ~42,000 lights (candy-cane tunnel, lighted bridge); lit dusk to dawn."
+    },
+    {
       "id": "book-sanderson-fires-of-december-2026-12-08",
       "title": "The Fires of December (Brandon Sanderson)",
       "start": "2026-12-08T00:00:00-05:00",
@@ -530,6 +522,29 @@
       "category": "sci-fi",
       "url": "https://www.butlerartspresents.org/performances/the-mandalorian-and-grogu/",
       "notes": "Free, no tickets needed. Doors 6pm with Star Wars character meet-and-greets, airbrush tattoos and balloon twisting."
+    },
+    {
+      "id": "project-hail-mary-rerelease-2026-12-11",
+      "title": "Project Hail Mary (theatrical re-release)",
+      "start": "2026-12-11T00:00:00-05:00",
+      "venue": "Area theaters",
+      "city": "Indianapolis, IN",
+      "distanceMiles": 30,
+      "category": "sci-fi",
+      "url": "https://www.boxofficemojo.com/calendar/2026-12-01/",
+      "notes": "Wide re-release per Box Office Mojo schedule; check local showtimes."
+    },
+    {
+      "id": "anime-skate-united-skates-indy-2026-12-11",
+      "title": "Anime Skate (United Skates Indy)",
+      "start": "2026-12-11T18:00:00-05:00",
+      "end": "2026-12-11T22:00:00-05:00",
+      "venue": "United Skates, 175 Southern Plaza Dr",
+      "city": "Indianapolis, IN",
+      "distanceMiles": 25,
+      "category": "anime",
+      "url": "https://happeningnext.com/event/anime-skate-eid3a0eadgluc",
+      "notes": "Anime-themed skate night: cosplay ($2 off), anime trivia, neon lights, Pikachu/Hello Kitty visits. $12 admission, $6 skate rental. Listing via aggregator — confirm with venue."
     },
     {
       "id": "winter-bash-wood-river-2026-12-12",
@@ -587,6 +602,18 @@
       "category": "convention",
       "url": "https://www.slabday.com/shows/collectors-palooza-indianapolis-in/2026-12-13",
       "notes": "NEW. 200+ tables of trading cards, plushies and merch, free face painting, Pokémon giveaways. Next dates Jan 10 and Feb 7."
+    },
+    {
+      "id": "tcg-kon-louisville-2026-12-13",
+      "title": "TCG-Kon Louisville (trading card convention)",
+      "start": "2026-12-13T10:00:00-05:00",
+      "end": "2026-12-13T17:00:00-05:00",
+      "venue": "Triple Crown Pavilion, 1780 Plantside Dr",
+      "city": "Louisville, KY",
+      "distanceMiles": 85,
+      "category": "convention",
+      "url": "https://tcgkon.com/louisville/",
+      "notes": "Pokémon, One Piece, MTG, Yu-Gi-Oh!, Lorcana vendors, artist alley, open gaming; guest Ethan Gallardo. GA $20 (kid 11 & under free with paid adult)."
     },
     {
       "id": "crunchyroll-anime-nights-sneak-peek-2026-12-14",
@@ -701,6 +728,17 @@
       "category": "book",
       "url": "https://www.audible.com/series/Reborn-as-a-Demonic-Tree-Audiobooks/B0CQQZ779J",
       "notes": "Audible Dec 22 2026 confirmed. Ebook already released (Aethon/Amazon ~Mar 2026)."
+    },
+    {
+      "id": "full-tilt-arcade-4-strike-2026-12-23",
+      "title": "Full Tilt Arcade 4-Strike Pinball Tournament",
+      "start": "2026-12-23T18:00:00-06:00",
+      "venue": "Full Tilt Arcade & Pinball, 701 N Fail Rd",
+      "city": "La Porte, IN",
+      "distanceMiles": 170,
+      "category": "retro-games",
+      "url": "https://www.ifpapinball.com/tournaments/view.php?t=106187",
+      "notes": "IFPA-ranked strike knockout, 6pm Central, 48-player limit, day-of registration."
     },
     {
       "id": "jumanji-open-world-2026-12-25",
